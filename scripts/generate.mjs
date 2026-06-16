@@ -24,7 +24,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = resolve(__dirname, '../data/ideas.js');
 
 const TIMEOUT_MS = 12000;
-const TOPICS_PER_COUNTRY = 9;
+const TOPICS_PER_COUNTRY = 12;
 const TYPES = ['humor', 'pov', 'rap'];
 
 // --- red ---------------------------------------------------------------------
@@ -148,10 +148,62 @@ function isSensitive(t) {
   return SENSITIVE.test(t.topic + ' ' + t.context);
 }
 
+// --- clasificación por gremio (cada noticia va a UN solo tipo) ---------------
+// Palabras clave que delatan a qué gremio pega mejor cada tema.
+const KW = {
+  rap: ['música', 'musica', 'music', 'canción', 'cancion', 'song', 'álbum', 'album',
+    'disco', 'rapero', 'rapper', 'rap', 'trap', 'drill', 'freestyle', 'beef', 'diss',
+    'gira', 'tour', 'concierto', 'concert', 'festival', 'grammy', 'hit', 'single',
+    'remix', 'feat', 'beat', 'artista', 'cantante', 'letra', 'estrena', 'lanza',
+    'reggaeton', 'reggaetón', 'bizarrap', 'sesión', 'sesion'],
+  humor: ['polémica', 'polemica', 'controvers', 'viral', 'meme', 'ridícul', 'ridicul',
+    'absurd', 'insólit', 'insolit', 'increíble', 'increible', 'broma', 'fail', 'pillad',
+    'cachondeo', 'gaffe', 'embarrass', 'awkward', 'bizarre', 'weird', 'reality', 'boda',
+    'wedding', 'sálvame', 'salvame', 'supervivientes', 'gran hermano', 'eurovisión',
+    'eurovision', 'se lía', 'lío', 'escándalo', 'escandalo', 'dimite', 'niega', 'miente',
+    'mentira', 'acusa', 'cachond', 'troll'],
+  pov: ['fallec', 'muerte', 'muere', 'accidente', 'despedida', 'deja', 'ruptura',
+    'breakup', 'embaraz', 'pregnan', 'sorpresa', 'reencuentro', 'historia', 'debut',
+    'lágrim', 'lagrim', 'emocion', 'adiós', 'adios', 'retira', 'retires', 'homenaje',
+    'rescat', 'salva', 'héroe', 'heroe', 'perdió', 'perdio', 'derrota', 'elimina',
+    'final', 'remontada', 'milagro'],
+};
+
+function score(text, genre) {
+  let n = 0;
+  for (const k of KW[genre]) if (text.includes(k)) n += 1;
+  return n;
+}
+
+// Asigna cada tema a un gremio, equilibrando para que ninguno se quede vacío.
+function assignGenres(items) {
+  const counts = { humor: 0, pov: 0, rap: 0 };
+  const order = ['humor', 'pov', 'rap'];
+  const leastUsed = (cands) =>
+    cands.reduce((a, b) => (counts[a] <= counts[b] ? a : b));
+
+  return items.map((t) => {
+    let genre;
+    if (isSensitive(t)) {
+      genre = 'pov'; // las tragedias van a homenaje (POV emotivo), nunca a humor
+    } else {
+      const text = (t.topic + ' ' + t.context).toLowerCase();
+      const sc = { humor: score(text, 'humor'), pov: score(text, 'pov'), rap: score(text, 'rap') };
+      const max = Math.max(sc.humor, sc.pov, sc.rap);
+      // Sin señal clara -> al gremio con menos temas (para repartir variedad).
+      genre = max === 0
+        ? leastUsed(order)
+        : leastUsed(order.filter((g) => sc[g] === max));
+    }
+    counts[genre] += 1;
+    return { t, genre };
+  });
+}
+
 // --- generación de ideas con enfoque VIRAL -----------------------------------
 
 function titleFor(type, topic, sensitive) {
-  if (sensitive && type === 'humor') return `🕊️ Homenaje: ${topic}`;
+  if (sensitive) return `🕊️ Homenaje: ${topic}`;
   const label = { humor: '😂 Humor', pov: '🎭 POV', rap: '🎤 Rap' }[type];
   return `${label}: ${topic}`;
 }
@@ -214,26 +266,22 @@ function scriptFor(type, t, sensitive) {
 }
 
 function buildIdeas(items, country, countryName, startId) {
-  const ideas = [];
   let id = startId;
-  for (const t of items) {
+  return assignGenres(items).map(({ t, genre }) => {
     const sensitive = isSensitive(t);
-    for (const type of TYPES) {
-      ideas.push({
-        id: `${country}-${type}-${id++}`,
-        country,
-        type,
-        topic: t.topic,
-        context: t.context,
-        traffic: t.traffic,
-        title: titleFor(type, t.topic, sensitive),
-        why: whyFor(type, t, countryName, sensitive),
-        script: scriptFor(type, t, sensitive),
-        source: { name: t.source, url: t.url },
-      });
-    }
-  }
-  return ideas;
+    return {
+      id: `${country}-${genre}-${id++}`,
+      country,
+      type: genre,
+      topic: t.topic,
+      context: t.context,
+      traffic: t.traffic,
+      title: titleFor(genre, t.topic, sensitive),
+      why: whyFor(genre, t, countryName, sensitive),
+      script: scriptFor(genre, t, sensitive),
+      source: { name: t.source, url: t.url },
+    };
+  });
 }
 
 // --- main --------------------------------------------------------------------
@@ -251,7 +299,7 @@ async function main() {
     }
     console.log(`[${code}] ${items.length} temas virales`);
     ideas.push(...buildIdeas(items, code, name, id));
-    id += items.length * TYPES.length;
+    id += items.length;
   }
 
   if (ideas.length === 0) {
