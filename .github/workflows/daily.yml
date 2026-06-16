@@ -9,11 +9,11 @@ on:
 
 # Si una ejecución se queda larga, se corta sola (no se cuelga).
 jobs:
-  build-and-deploy:
+  actualizar:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
-      contents: write   # para poder guardar el data/ideas.js actualizado
+      contents: write   # para guardar el data/ideas.js actualizado en el repo
     steps:
       - name: Descargar el repo
         uses: actions/checkout@v4
@@ -26,31 +26,12 @@ jobs:
       - name: Generar tendencias e ideas
         run: node scripts/generate.mjs
 
-      - name: Guardar los datos actualizados en el repo
+      # Guardamos el resultado en el repo. GitHub Pages está configurado para
+      # publicar desde la rama main, así que este commit republica la web solo.
+      - name: Guardar los datos actualizados
         run: |
           git config user.name  "garzi-bot"
           git config user.email "garzi-bot@users.noreply.github.com"
           git add data/ideas.js
           git commit -m "Actualización diaria de tendencias" || echo "Sin cambios que guardar"
           git push || echo "Nada que subir"
-
-      # --- Despliegue a davidguijarro.com.es/garzi por FTP ---
-      # Requiere estos "Secrets" en el repo (Settings → Secrets → Actions):
-      #   FTP_SERVER    -> p.ej. ftp.davidguijarro.com.es
-      #   FTP_USERNAME  -> tu usuario FTP
-      #   FTP_PASSWORD  -> tu contraseña FTP
-      #   FTP_DIR       -> carpeta destino, p.ej. /public_html/garzi/   (con la barra final)
-      - name: Desplegar por FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: ${{ secrets.FTP_DIR }}
-          local-dir: ./
-          exclude: |
-            **/.git*
-            **/.git/**
-            **/.github/**
-            **/scripts/**
-            **/README.md

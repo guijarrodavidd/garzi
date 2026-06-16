@@ -12,8 +12,9 @@ Haz **doble clic en `index.html`**. Funciona tal cual (los datos están en
 ## Cómo se actualiza sola
 `scripts/generate.mjs` recoge titulares de **Google News** (entretenimiento,
 deportes y general) de ES y US, y reescribe `data/ideas.js`. Lo lanza
-**GitHub Actions** todos los días a las 06:00 UTC (`.github/workflows/daily.yml`),
-y luego sube los archivos a tu hosting por FTP. Si una fuente falla, el resto
+**GitHub Actions** todos los días a las 06:00 UTC (`.github/workflows/daily.yml`)
+y hace commit del resultado. La web se publica con **GitHub Pages** desde la
+rama `main`, así que ese commit la republica sola. Si una fuente falla, el resto
 sigue; si fallan todas, se conserva el último resultado (nunca se queda colgado).
 
 Para generar manualmente:  `node scripts/generate.mjs`
