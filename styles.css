@@ -1,0 +1,220 @@
+/* ===========================================================================
+   GARZI · Radar de tendencias — estilos
+   Paleta tomada del logo: negro, azul royal y aro plateado.
+   =========================================================================== */
+
+:root {
+  --bg:        #05070f;
+  --bg-2:      #0b0f1d;
+  --card:      #0e1426;
+  --card-2:    #121a31;
+  --line:      #1e2742;
+  --blue:      #2b56d4;
+  --blue-2:    #4f7cff;
+  --blue-deep: #16224d;
+  --silver:    #d7dbe6;
+  --text:      #eef1f8;
+  --muted:     #8c93a8;
+  --humor:     #f5a623;
+  --pov:       #b06bff;
+  --rap:       #2bd4a8;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.bg-glow {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(60vw 60vw at 80% -10%, rgba(43,86,212,0.22), transparent 60%),
+    radial-gradient(50vw 50vw at -10% 110%, rgba(43,86,212,0.14), transparent 60%),
+    linear-gradient(180deg, var(--bg), var(--bg-2));
+}
+
+/* ---- cabecera ---- */
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 28px 20px 12px;
+}
+.logo {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  border: 2px solid var(--silver);
+  box-shadow: 0 0 0 4px rgba(43,86,212,0.18), 0 8px 30px rgba(0,0,0,0.5);
+  object-fit: cover;
+  background: #000;
+}
+.logo--fallback { display: none; }
+.brand h1 {
+  margin: 0;
+  font-size: 30px;
+  letter-spacing: 4px;
+  font-weight: 800;
+  background: linear-gradient(90deg, #fff, var(--blue-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.brand p {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  letter-spacing: 0.5px;
+}
+.updated {
+  margin-left: auto;
+  font-size: 12px;
+  color: var(--muted);
+  background: var(--card);
+  border: 1px solid var(--line);
+  padding: 8px 12px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.updated.stale { color: #ffd2a8; border-color: #5a3a1a; }
+
+/* ---- filtros ---- */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 24px;
+  max-width: 1100px;
+  margin: 8px auto 4px;
+  padding: 0 20px;
+}
+.group { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  cursor: pointer;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--text);
+  padding: 9px 16px;
+  border-radius: 999px;
+  font-size: 14px;
+  transition: all 0.15s ease;
+}
+.chip:hover { border-color: var(--blue); }
+.chip.active {
+  background: linear-gradient(180deg, var(--blue-2), var(--blue));
+  border-color: var(--blue-2);
+  color: #fff;
+  box-shadow: 0 6px 18px rgba(43,86,212,0.35);
+}
+
+/* ---- rejilla de tarjetas ---- */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+  gap: 16px;
+  max-width: 1100px;
+  margin: 18px auto;
+  padding: 0 20px;
+}
+.card {
+  background: linear-gradient(180deg, var(--card-2), var(--card));
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+.card:hover { transform: translateY(-3px); border-color: var(--blue); }
+
+.badges { display: flex; gap: 8px; flex-wrap: wrap; }
+.badge {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid transparent;
+}
+.badge.country { background: var(--blue-deep); color: #cfe0ff; border-color: #24407d; }
+.badge.humor { background: rgba(245,166,35,0.12); color: var(--humor); border-color: rgba(245,166,35,0.4); }
+.badge.pov   { background: rgba(176,107,255,0.12); color: var(--pov); border-color: rgba(176,107,255,0.4); }
+.badge.rap   { background: rgba(43,212,168,0.12); color: var(--rap); border-color: rgba(43,212,168,0.4); }
+
+.card h3 {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.3;
+}
+.why {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.5;
+}
+.why strong { color: var(--silver); }
+
+details.script {
+  background: rgba(0,0,0,0.25);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px 14px;
+}
+details.script summary {
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--blue-2);
+  list-style: none;
+}
+details.script summary::-webkit-details-marker { display: none; }
+details.script[open] summary { margin-bottom: 8px; }
+.script pre {
+  margin: 0;
+  white-space: pre-wrap;
+  font-family: inherit;
+  font-size: 13.5px;
+  line-height: 1.55;
+  color: #d7ddee;
+}
+
+.source {
+  margin-top: auto;
+  font-size: 12px;
+}
+.source a { color: var(--muted); text-decoration: none; }
+.source a:hover { color: var(--blue-2); text-decoration: underline; }
+
+.empty {
+  text-align: center;
+  color: var(--muted);
+  padding: 60px 20px;
+}
+
+.foot {
+  max-width: 1100px;
+  margin: 30px auto 50px;
+  padding: 0 20px;
+  color: var(--muted);
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  border-top: 1px solid var(--line);
+  padding-top: 18px;
+}
+
+@media (max-width: 520px) {
+  .brand h1 { font-size: 24px; }
+  .logo { width: 60px; height: 60px; }
+  .updated { display: none; }
+}

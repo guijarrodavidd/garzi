@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GARZI · Radar de Tendencias</title>
+  <meta name="description" content="Ideas de vídeo (humor, POV, rap) a partir de lo que es tendencia hoy en España y EE.UU.">
+  <link rel="icon" href="assets/logo.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="bg-glow"></div>
+
+  <header class="topbar">
+    <img class="logo" src="assets/logo.png" alt="GARZI" onerror="this.classList.add('logo--fallback');this.alt='GARZI'">
+    <div class="brand">
+      <h1>GARZI</h1>
+      <p>Radar de tendencias · humor · POV · rap</p>
+    </div>
+    <div class="updated" id="updated" title="Última actualización">—</div>
+  </header>
+
+  <nav class="filters">
+    <div class="group" id="typeFilters" aria-label="Filtrar por tipo">
+      <button class="chip active" data-type="all">Todos</button>
+      <button class="chip" data-type="humor">😂 Humor</button>
+      <button class="chip" data-type="pov">🎭 POV</button>
+      <button class="chip" data-type="rap">🎤 Rap</button>
+    </div>
+    <div class="group" id="countryFilters" aria-label="Filtrar por país">
+      <button class="chip active" data-country="all">🌍 Ambos</button>
+      <button class="chip" data-country="ES">🇪🇸 España</button>
+      <button class="chip" data-country="US">🇺🇸 EE.UU.</button>
+    </div>
+  </nav>
+
+  <main id="grid" class="grid" aria-live="polite"></main>
+  <p id="empty" class="empty" hidden>No hay ideas para ese filtro ahora mismo.</p>
+
+  <footer class="foot">
+    <span>Datos de tendencias públicas (Google News, España y EE.UU.).</span>
+    <span>Los guiones son bases editables. Se actualiza solo cada día.</span>
+  </footer>
+
+  <script src="data/ideas.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
