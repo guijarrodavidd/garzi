@@ -1,18 +1,19 @@
 // =============================================================================
-// GARZI · Radar de tendencias — generador diario
+// GARZI · Radar de tendencias VIRALES — generador diario
 // -----------------------------------------------------------------------------
-// Recoge temas en tendencia (gratis, sin API keys) de España y EE.UU. por
-// separado, y genera ideas de vídeo (humor / POV / rap) con un "por qué" y un
-// guión base editable.
+// Fuente principal: Google Trends "Trending Now" RSS (lo que la gente está
+// BUSCANDO y se dispara ahora mismo: famosos, deportistas, polémicas, memes...),
+// con el volumen de búsquedas y la noticia que lo provoca (el contexto del chiste).
+// Fuente de reserva: titulares de Google News (entretenimiento/deportes) por si
+// Trends fallara, para que nunca se quede sin datos.
 //
-// Robustez ("nunca se queda colgado"):
-//   - Cada fuente lleva timeout y try/catch propio. Si una falla, se ignora.
-//   - Si TODO falla, mantiene el fichero anterior y sale con código 0.
-//   - Siempre que haya algún dato, escribe un data/ideas.js válido.
+// Para cada tema genera ideas de humor / POV / rap con enfoque VIRAL:
+// ángulo, gancho, desarrollo y remate, más el "por qué" puede petar.
+// Detecta temas sensibles (fallecimientos) y cambia el tono a homenaje.
 //
+// Robustez: cada fuente con timeout y try/catch; si todo falla, conserva el
+// fichero anterior y sale con código 0 (nunca se cuelga).
 // Salida: ../data/ideas.js  ->  window.GARZI_DATA = {...}
-// (Usamos un .js en vez de .json para que la web funcione también abriendo
-//  el index.html directamente, sin servidor, sin problemas de CORS.)
 // =============================================================================
 
 import { writeFile, mkdir } from 'node:fs/promises';
@@ -22,11 +23,11 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = resolve(__dirname, '../data/ideas.js');
 
-const TIMEOUT_MS = 12000;          // corta cualquier fuente lenta
-const TOPICS_PER_COUNTRY = 7;      // nº de temas por país
+const TIMEOUT_MS = 12000;
+const TOPICS_PER_COUNTRY = 9;
 const TYPES = ['humor', 'pov', 'rap'];
 
-// --- utilidades de red -------------------------------------------------------
+// --- red ---------------------------------------------------------------------
 
 async function fetchText(url) {
   const ctrl = new AbortController();
@@ -54,133 +55,181 @@ function decode(s) {
     .trim();
 }
 
-// --- fuente: Google News RSS (titulares = temas calientes del momento) --------
-
-function parseRss(xml, limit) {
-  const items = [];
-  const blocks = xml.split(/<item>/i).slice(1);
-  for (const b of blocks.slice(0, limit)) {
-    const rawTitle = decode((b.match(/<title>(.*?)<\/title>/is) || [])[1] || '');
-    const link = decode((b.match(/<link>(.*?)<\/link>/is) || [])[1] || '');
-    const source = decode((b.match(/<source[^>]*>(.*?)<\/source>/is) || [])[1] || '');
-    if (!rawTitle) continue;
-    // Los titulares de Google News vienen como "Titular - Fuente"
-    let topic = rawTitle, srcName = source;
-    const dash = rawTitle.lastIndexOf(' - ');
-    if (dash > 0) {
-      topic = rawTitle.slice(0, dash).trim();
-      if (!srcName) srcName = rawTitle.slice(dash + 3).trim();
-    }
-    if (topic.length < 6) continue;
-    items.push({ topic, url: link, source: srcName || 'Google News' });
-  }
-  return items;
+function field(block, tag) {
+  const m = block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`, 'i'));
+  return m ? decode(m[1]) : '';
 }
 
-// Para un creador de humor/POV/rap interesan más entretenimiento y deportes
-// que la política general. Mezclamos varios feeds por país (con prioridad) y
-// nos quedamos con un surtido. Cada feed falla por separado sin romper el resto.
-function feedsFor(country) {
-  const loc = country === 'ES'
-    ? 'hl=es&gl=ES&ceid=ES:es'
-    : 'hl=en-US&gl=US&ceid=US:en';
-  const sec = (topic) =>
-    `https://news.google.com/rss/headlines/section/topic/${topic}?${loc}`;
-  // Orden = prioridad de mezcla.
-  return [
-    { tag: 'entretenimiento', url: sec('ENTERTAINMENT') },
-    { tag: 'deportes',        url: sec('SPORTS') },
-    { tag: 'general',         url: `https://news.google.com/rss?${loc}` },
+function titleCase(s) {
+  return s.split(/\s+/)
+    .map((w) => (w ? w[0].toUpperCase() + w.slice(1) : w))
+    .join(' ');
+}
+
+// "100+", "2K+", "1M+" -> número para ordenar por cuánto está petando
+function trafficScore(s) {
+  const m = (s || '').match(/([\d.,]+)\s*([KkMm])?/);
+  if (!m) return 0;
+  let n = parseFloat(m[1].replace(/[.,]/g, '')) || 0;
+  if (/k/i.test(m[2] || '')) n *= 1000;
+  if (/m/i.test(m[2] || '')) n *= 1000000;
+  return n;
+}
+
+// --- FUENTE PRINCIPAL: Google Trends "Trending Now" --------------------------
+
+async function getTrends(country) {
+  const url = `https://trends.google.com/trending/rss?geo=${country}`;
+  try {
+    const xml = await fetchText(url);
+    const blocks = xml.split(/<item>/i).slice(1);
+    const items = [];
+    for (const b of blocks) {
+      const query = field(b, 'title');
+      if (!query || query.length < 2) continue;
+      const traffic = field(b, 'ht:approx_traffic');
+      // primera noticia asociada = contexto del tema
+      const newsTitle = field(b, 'ht:news_item_title');
+      const newsUrl = field(b, 'ht:news_item_url');
+      const newsSource = field(b, 'ht:news_item_source');
+      items.push({
+        topic: titleCase(query),
+        context: newsTitle || '',
+        traffic: traffic || '',
+        score: trafficScore(traffic),
+        url: newsUrl || `https://www.google.com/search?q=${encodeURIComponent(query)}`,
+        source: newsSource || 'Google Trends',
+      });
+    }
+    items.sort((a, b) => b.score - a.score);
+    return items.slice(0, TOPICS_PER_COUNTRY);
+  } catch (e) {
+    console.error(`[trends ${country}] fallo: ${e.message}`);
+    return [];
+  }
+}
+
+// --- FUENTE DE RESERVA: Google News (entretenimiento/deportes) ---------------
+
+async function getNewsFallback(country) {
+  const loc = country === 'ES' ? 'hl=es&gl=ES&ceid=ES:es' : 'hl=en-US&gl=US&ceid=US:en';
+  const feeds = [
+    `https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?${loc}`,
+    `https://news.google.com/rss/headlines/section/topic/SPORTS?${loc}`,
   ];
-}
-
-async function getNews(country) {
-  const buckets = [];
-  for (const feed of feedsFor(country)) {
+  const items = [];
+  for (const url of feeds) {
     try {
-      const xml = await fetchText(feed.url);
-      buckets.push(parseRss(xml, 6));
+      const xml = await fetchText(url);
+      const blocks = xml.split(/<item>/i).slice(1, 6);
+      for (const b of blocks) {
+        const t = field(b, 'title');
+        if (!t) continue;
+        const dash = t.lastIndexOf(' - ');
+        const topic = dash > 0 ? t.slice(0, dash) : t;
+        items.push({
+          topic, context: '', traffic: '', score: 0,
+          url: field(b, 'link'),
+          source: dash > 0 ? t.slice(dash + 3) : 'Google News',
+        });
+      }
     } catch (e) {
-      console.error(`[news ${country}/${feed.tag}] fallo: ${e.message}`);
-      buckets.push([]);
+      console.error(`[news ${country}] ${e.message}`);
     }
   }
-  // Intercala los feeds (1º de cada uno, 2º de cada uno…) para variar temas.
-  const mixed = [];
-  for (let r = 0; r < 6; r++) {
-    for (const b of buckets) if (b[r]) mixed.push(b[r]);
-  }
-  return dedupe(mixed).slice(0, TOPICS_PER_COUNTRY);
+  return items.slice(0, TOPICS_PER_COUNTRY);
 }
 
-function dedupe(items) {
-  const seen = new Set();
-  return items.filter((i) => {
-    const k = i.topic.toLowerCase();
-    if (seen.has(k)) return false;
-    seen.add(k);
-    return true;
-  });
+// --- clasificación de tono (para no meter humor en una tragedia) -------------
+
+const SENSITIVE = /\b(fallec|muerte|muere|murió|murio|falleci|luto|accidente mortal|asesina|r\.?i\.?p\.?|dies|death|passed away|tragedi)\b/i;
+
+function isSensitive(t) {
+  return SENSITIVE.test(t.topic + ' ' + t.context);
 }
 
-// --- generación de ideas (plantillas, sin IA) --------------------------------
+// --- generación de ideas con enfoque VIRAL -----------------------------------
 
-function titleFor(type, topic) {
+function titleFor(type, topic, sensitive) {
+  if (sensitive && type === 'humor') return `🕊️ Homenaje: ${topic}`;
   const label = { humor: '😂 Humor', pov: '🎭 POV', rap: '🎤 Rap' }[type];
   return `${label}: ${topic}`;
 }
 
-function whyFor(type, topic, countryName) {
-  const t = { humor: 'humor', pov: 'POV', rap: 'rap' }[type];
-  return `Tema en tendencia ahora mismo en ${countryName}: la gente ya lo está ` +
-    `buscando y comentando. Un vídeo de ${t} sobre «${topic}» se sube a la ola ` +
-    `cuando todavía está caliente, que es justo cuando el algoritmo más empuja. ` +
-    `Te da un contexto fresco para conectar y encaja con tu estilo.`;
+function whyFor(type, t, countryName, sensitive) {
+  const vol = t.score ? ` (${t.traffic} búsquedas y subiendo)` : '';
+  const ctx = t.context ? ` Lo que ha pasado: «${t.context}».` : '';
+  if (sensitive) {
+    return `Tema muy sensible que está estallando en ${countryName}${vol}.${ctx} ` +
+      `Aquí el humor NO funciona y puede quemarte: tira de homenaje o de un POV ` +
+      `emotivo y respetuoso. La gente comparte lo que emociona, no solo lo que hace gracia.`;
+  }
+  const t2 = { humor: 'humor', pov: 'POV', rap: 'rap' }[type];
+  return `Se está disparando en búsquedas en ${countryName} AHORA${vol}.${ctx} ` +
+    `La gente ya lo está comentando, así que un vídeo de ${t2} se sube a la ola justo ` +
+    `cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. ` +
+    `Súbelo hoy, mañana ya estará frío.`;
 }
 
-function scriptFor(type, topic) {
+function scriptFor(type, t, sensitive) {
+  const topic = t.topic;
+  const ctx = t.context || `el tema de ${topic}`;
+
+  if (sensitive) {
+    return [
+      `🕊️ TONO: respeto total. Nada de chistes.`,
+      `🎬 GANCHO (0-3s): a cámara, serio — «Tenemos que hablar de ${topic}.»`,
+      `💬 DESARROLLO: qué ha pasado y por qué importaba a la gente. Una anécdota o recuerdo.`,
+      `🤍 REMATE: mensaje bonito o reflexión. Texto en pantalla: «DEP».`,
+      `📌 CTA: «Déjale un mensaje en comentarios».`,
+    ].join('\n');
+  }
+
   if (type === 'humor') {
     return [
-      `🎬 GANCHO (0-3s): A cámara, cara de incredulidad — «¿En serio nadie va a hablar de esto? ${topic}…»`,
-      `😂 DESARROLLO (3-15s): Exagera la situación al máximo. Mete 2 reacciones imposibles y un personaje secundario (tú haciendo de «el típico que…»).`,
-      `🔥 REMATE (15-25s): Giro absurdo o conclusión que nadie ve venir.`,
-      `📌 CTA: «Comenta tu opinión 👇 y sígueme para más».`,
-      `🏷️ HASHTAGS: relacionados con el tema + #humor #parati`,
+      `🎯 ÁNGULO VIRAL: «${ctx}». Busca aquí la incoherencia, la exageración o lo absurdo.`,
+      `🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que ${topic}… y aún no me lo creo.»`,
+      `😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.`,
+      `🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).`,
+      `📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»`,
     ].join('\n');
   }
   if (type === 'pov') {
     return [
-      `🎬 TEXTO EN PANTALLA: «POV: te enteras de que ${topic}»`,
-      `🎭 ACTUACIÓN (0-10s): Reacción muda, solo gestos. Música de tensión de fondo.`,
-      `🔄 GIRO (10-18s): Cambia el contexto — resulta que tú eras el protagonista de la historia.`,
-      `🔥 REMATE: Frase final mirando a cámara. Texto en pantalla: «y así fue como…».`,
-      `🏷️ HASHTAGS: relacionados con el tema + #pov #fyp`,
+      `🎯 ÁNGULO VIRAL: ponte EN la situación de «${ctx}».`,
+      `🎬 TEXTO EN PANTALLA: «POV: te enteras de que ${topic}…»`,
+      `🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.`,
+      `🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.`,
+      `🔥 REMATE: frase final a cámara. Texto: «y así fue como…».`,
     ].join('\n');
   }
   // rap
   return [
-    `🎤 ESTRIBILLO (pegadizo, 2 líneas) sobre «${topic}».`,
-    `🎶 ESTROFA (6-8 barras): cuenta la historia con punchlines y rimas internas.`,
-    `🔥 PUNCHLINE final: el remate más fuerte para el último segundo (que haga loop).`,
-    `🎚️ BEAT: tempo medio-alto, deja huecos para los gestos a cámara.`,
-    `🏷️ HASHTAGS: relacionados con el tema + #rap #freestyle`,
+    `🎯 ÁNGULO VIRAL: convierte «${ctx}» en barras con punchlines.`,
+    `🎤 ESTRIBILLO (2 líneas pegadizas) sobre ${topic}.`,
+    `🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.`,
+    `🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).`,
+    `🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.`,
   ].join('\n');
 }
 
-function buildIdeas(news, country, countryName, startId) {
+function buildIdeas(items, country, countryName, startId) {
   const ideas = [];
   let id = startId;
-  for (const item of news) {
+  for (const t of items) {
+    const sensitive = isSensitive(t);
     for (const type of TYPES) {
       ideas.push({
         id: `${country}-${type}-${id++}`,
         country,
         type,
-        topic: item.topic,
-        title: titleFor(type, item.topic),
-        why: whyFor(type, item.topic, countryName),
-        script: scriptFor(type, item.topic),
-        source: { name: item.source, url: item.url },
+        topic: t.topic,
+        context: t.context,
+        traffic: t.traffic,
+        title: titleFor(type, t.topic, sensitive),
+        why: whyFor(type, t, countryName, sensitive),
+        script: scriptFor(type, t, sensitive),
+        source: { name: t.source, url: t.url },
       });
     }
   }
@@ -195,23 +244,22 @@ async function main() {
   let id = 0;
 
   for (const [code, name] of Object.entries(countries)) {
-    const news = await getNews(code);
-    console.log(`[${code}] ${news.length} temas`);
-    ideas.push(...buildIdeas(news, code, name, id));
-    id += news.length * TYPES.length;
+    let items = await getTrends(code);
+    if (items.length < 3) {
+      console.error(`[${code}] Trends flojo (${items.length}), uso reserva de noticias`);
+      items = await getNewsFallback(code);
+    }
+    console.log(`[${code}] ${items.length} temas virales`);
+    ideas.push(...buildIdeas(items, code, name, id));
+    id += items.length * TYPES.length;
   }
 
   if (ideas.length === 0) {
-    // Ninguna fuente respondió: no toques el fichero existente.
     console.error('Sin datos de ninguna fuente. Mantengo el fichero anterior.');
     process.exit(0);
   }
 
-  const payload = {
-    updatedAt: new Date().toISOString(),
-    countries,
-    ideas,
-  };
+  const payload = { updatedAt: new Date().toISOString(), countries, ideas };
   const js = `// Generado automáticamente cada día. No editar a mano.\n` +
     `window.GARZI_DATA = ${JSON.stringify(payload, null, 2)};\n`;
 
@@ -221,7 +269,6 @@ async function main() {
 }
 
 main().catch((e) => {
-  // Pase lo que pase, no rompemos el deploy: se conserva el último ideas.js.
   console.error('Fallo general (se mantiene el fichero anterior):', e);
   process.exit(0);
 });

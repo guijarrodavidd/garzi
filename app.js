@@ -40,11 +40,16 @@
       ? '<a href="' + esc(src.url) + '" target="_blank" rel="noopener">📰 ' + esc(src.name || 'fuente') + ' ↗</a>'
       : '<span>' + esc(src.name || '') + '</span>';
 
+    var trafficBadge = i.traffic
+      ? '<span class="badge fire">🔥 ' + esc(i.traffic) + ' búsquedas</span>'
+      : '';
+
     return '' +
       '<article class="card">' +
         '<div class="badges">' +
           '<span class="badge country">' + flag + ' ' + esc(cname) + '</span>' +
           '<span class="badge ' + esc(i.type) + '">' + (TYPE_LABEL[i.type] || esc(i.type)) + '</span>' +
+          trafficBadge +
         '</div>' +
         '<h3>' + esc(i.topic) + '</h3>' +
         '<p class="why"><strong>Por qué funciona:</strong> ' + esc(i.why) + '</p>' +

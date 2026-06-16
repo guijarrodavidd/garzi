@@ -149,6 +149,7 @@ html, body {
 .badge.humor { background: rgba(245,166,35,0.12); color: var(--humor); border-color: rgba(245,166,35,0.4); }
 .badge.pov   { background: rgba(176,107,255,0.12); color: var(--pov); border-color: rgba(176,107,255,0.4); }
 .badge.rap   { background: rgba(43,212,168,0.12); color: var(--rap); border-color: rgba(43,212,168,0.4); }
+.badge.fire  { background: rgba(255,90,60,0.12); color: #ff7a5c; border-color: rgba(255,90,60,0.4); }
 
 .card h3 {
   margin: 0;
