@@ -1,6 +1,6 @@
 // Generado automáticamente cada día. No editar a mano.
 window.GARZI_DATA = {
-  "updatedAt": "2026-07-16T08:22:35.172Z",
+  "updatedAt": "2026-07-17T08:18:53.937Z",
   "countries": {
     "ES": "España",
     "US": "Estados Unidos"
@@ -10,300 +10,285 @@ window.GARZI_DATA = {
       "id": "ES-humor-0",
       "country": "ES",
       "type": "humor",
-      "topic": "Que Le Dijo Bellingham A Messi",
-      "context": "Bellingham explica su fuerte discusión con Messi",
-      "traffic": "20000+",
-      "title": "😂 Humor: Que Le Dijo Bellingham A Messi",
-      "why": "Se está disparando en búsquedas en España AHORA (20000+ búsquedas y subiendo). Lo que ha pasado: «Bellingham explica su fuerte discusión con Messi». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Bellingham explica su fuerte discusión con Messi». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Que Le Dijo Bellingham A Messi… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Tribunal Supremo",
+      "context": "El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont",
+      "traffic": "5000+",
+      "title": "😂 Humor: Tribunal Supremo",
+      "why": "Se está disparando en búsquedas en España AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «El Supremo mantiene el motivo clave por el que rechazó amnistiar la malversación de Puigdemont». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Tribunal Supremo… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Diario AS",
-        "url": "https://as.com/futbol/mundial/bellingham-explica-su-fuerte-discusion-con-messi-f202607-n/"
+        "name": "El Mundo",
+        "url": "https://www.elmundo.es/espana/2026/07/16/6a592344e85ecec83c8b456d.html"
       }
     },
     {
       "id": "ES-pov-1",
       "country": "ES",
       "type": "pov",
-      "topic": "Condena",
-      "context": "“Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito",
+      "topic": "Brote De Ébola",
+      "context": "La República Democrática del Congo supera los 2.000 casos de ébola",
       "traffic": "5000+",
-      "title": "🎭 POV: Condena",
-      "why": "Se está disparando en búsquedas en España AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «“Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «“Nepotismo” y “absentismo”: el tribunal del ‘caso David Sánchez’ traza la línea entre lo “éticamente censurable” y el delito».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Condena…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "title": "🎭 POV: Brote De Ébola",
+      "why": "Se está disparando en búsquedas en España AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «La República Democrática del Congo supera los 2.000 casos de ébola». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «La República Democrática del Congo supera los 2.000 casos de ébola».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Brote De Ébola…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
         "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/2026-07-16/nepotismo-y-absentismo-el-tribunal-del-caso-david-sanchez-traza-la-linea-entre-lo-eticamente-censurable-y-el-delito.html"
+        "url": "https://elpais.com/sociedad/2026-07-15/la-republica-democratica-del-congo-supera-los-2000-casos-de-ebola.html"
       }
     },
     {
-      "id": "ES-pov-2",
-      "country": "ES",
-      "type": "pov",
-      "topic": "Foto Messi Lamine Yamal",
-      "context": "Leo Messi bañando al bebé Lamine Yamal: la fotografía de la final del Mundial nació hace casi dos décadas",
-      "traffic": "2000+",
-      "title": "🎭 POV: Foto Messi Lamine Yamal",
-      "why": "Se está disparando en búsquedas en España AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «Leo Messi bañando al bebé Lamine Yamal: la fotografía de la final del Mundial nació hace casi dos décadas». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Leo Messi bañando al bebé Lamine Yamal: la fotografía de la final del Mundial nació hace casi dos décadas».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Foto Messi Lamine Yamal…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
-      "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/deportes/mundial-futbol/2026-07-15/leo-messi-banando-al-bebe-lamine-yamal-la-fotografia-de-la-final-del-mundial-nacio-hace-casi-dos-decadas.html"
-      }
-    },
-    {
-      "id": "ES-rap-3",
+      "id": "ES-rap-2",
       "country": "ES",
       "type": "rap",
-      "topic": "Silvia Intxaurrondo",
-      "context": "Silvia Intxaurrondo reclama hoy a RTVE en el juzgado su sueldo y plaza fija mientras negocia con La Séptima",
+      "topic": "Boe",
+      "context": "Impact of Middle East Conflict on U.K. Inflation Limited, Says BOE’s Bailey",
       "traffic": "1000+",
-      "title": "🎤 Rap: Silvia Intxaurrondo",
-      "why": "Se está disparando en búsquedas en España AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Silvia Intxaurrondo reclama hoy a RTVE en el juzgado su sueldo y plaza fija mientras negocia con La Séptima». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Silvia Intxaurrondo reclama hoy a RTVE en el juzgado su sueldo y plaza fija mientras negocia con La Séptima» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Silvia Intxaurrondo.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "title": "🎤 Rap: Boe",
+      "why": "Se está disparando en búsquedas en España AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Impact of Middle East Conflict on U.K. Inflation Limited, Says BOE’s Bailey». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Impact of Middle East Conflict on U.K. Inflation Limited, Says BOE’s Bailey» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Boe.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "OkDiario",
-        "url": "https://okdiario.com/economia/silvia-intxaurrondo-reclama-hoy-rtve-juzgado-sueldo-plaza-fija-mientras-negocia-septima-19002566"
+        "name": "WSJ",
+        "url": "https://www.wsj.com/pro/central-banking/impact-of-middle-east-conflict-on-u-k-inflation-limited-says-boes-bailey-e361eb70"
       }
     },
     {
-      "id": "ES-humor-4",
+      "id": "ES-humor-3",
       "country": "ES",
       "type": "humor",
-      "topic": "Manuel Campo Vidal",
-      "context": "Iago, hijo de Manuel Campo Vidal y María Rey, pisa el acelerador: compra una histórica firma de telecomunicaciones",
-      "traffic": "500+",
-      "title": "😂 Humor: Manuel Campo Vidal",
-      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Iago, hijo de Manuel Campo Vidal y María Rey, pisa el acelerador: compra una histórica firma de telecomunicaciones». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Iago, hijo de Manuel Campo Vidal y María Rey, pisa el acelerador: compra una histórica firma de telecomunicaciones». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Manuel Campo Vidal… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Carlos Alsina",
+      "context": "El conmovedor último monólogo Carlos Alsina antes de su \"nueva vida\": \"El viaje mereció la pena\"",
+      "traffic": "1000+",
+      "title": "😂 Humor: Carlos Alsina",
+      "why": "Se está disparando en búsquedas en España AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «El conmovedor último monólogo Carlos Alsina antes de su \"nueva vida\": \"El viaje mereció la pena\"». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «El conmovedor último monólogo Carlos Alsina antes de su \"nueva vida\": \"El viaje mereció la pena\"». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Carlos Alsina… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Vanitatis",
-        "url": "https://www.vanitatis.elconfidencial.com/famosos/2026-07-16/iago-hijo-manuel-campo-vidal-maria-rey-compra-firma-telecomunicaciones_4390457/"
+        "name": "El Mundo",
+        "url": "https://www.elmundo.es/television/medios/2026/07/17/6a59d094fc6c83ff5d8b456d.html"
+      }
+    },
+    {
+      "id": "ES-pov-4",
+      "country": "ES",
+      "type": "pov",
+      "topic": "Petróleo",
+      "context": "Trump recupera su tono más belicista contra Irán para intentar forzar que vuelva a las negociaciones",
+      "traffic": "500+",
+      "title": "🎭 POV: Petróleo",
+      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Trump recupera su tono más belicista contra Irán para intentar forzar que vuelva a las negociaciones». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Trump recupera su tono más belicista contra Irán para intentar forzar que vuelva a las negociaciones».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Petróleo…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/expres/2026-07-16/trump-recupera-su-tono-mas-belicista-contra-iran-para-intentar-forzar-que-vuelva-a-las-negociaciones.html"
       }
     },
     {
       "id": "ES-rap-5",
       "country": "ES",
       "type": "rap",
-      "topic": "Manuela Carmena",
-      "context": "Manuela Carmena, exalcaldesa de Madrid y magistrada: “En la democracia ha ido bajando la formación de nuestros políticos”",
+      "topic": "Teams",
+      "context": "LeBron James not ready to reveal next team, but it will be 'fun'",
       "traffic": "500+",
-      "title": "🎤 Rap: Manuela Carmena",
-      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Manuela Carmena, exalcaldesa de Madrid y magistrada: “En la democracia ha ido bajando la formación de nuestros políticos”». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Manuela Carmena, exalcaldesa de Madrid y magistrada: “En la democracia ha ido bajando la formación de nuestros políticos”» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Manuela Carmena.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "title": "🎤 Rap: Teams",
+      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «LeBron James not ready to reveal next team, but it will be 'fun'». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «LeBron James not ready to reveal next team, but it will be 'fun'» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Teams.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "La Vanguardia",
-        "url": "https://www.lavanguardia.com/lacontra/20260716/11593101/manuela-carmena-democracia-ido-bajando-formacion-politicos.html"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nba/story/_/id/49378298/lebron-james-not-ready-reveal-next-team-fun"
       }
     },
     {
       "id": "ES-humor-6",
       "country": "ES",
       "type": "humor",
-      "topic": "Radio Online",
-      "context": "News Bites: ‘All Paws Home,’ ‘Marky Ramone Radio,’ BFOA, TuneIn.",
+      "topic": "Ryan Hurst",
+      "context": "‘God Of War’ To Recast Lead Kratos After Ryan Hurst Suffers Injury On Set Of Prime Video Series",
       "traffic": "500+",
-      "title": "😂 Humor: Radio Online",
-      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «News Bites: ‘All Paws Home,’ ‘Marky Ramone Radio,’ BFOA, TuneIn.». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «News Bites: ‘All Paws Home,’ ‘Marky Ramone Radio,’ BFOA, TuneIn.». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Radio Online… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "title": "😂 Humor: Ryan Hurst",
+      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «‘God Of War’ To Recast Lead Kratos After Ryan Hurst Suffers Injury On Set Of Prime Video Series». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «‘God Of War’ To Recast Lead Kratos After Ryan Hurst Suffers Injury On Set Of Prime Video Series». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Ryan Hurst… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Insideradio.com",
-        "url": "https://www.insideradio.com/free/news-bites-all-paws-home-marky-ramone-radio-bfoa-tunein/article_a2600161-4604-472d-a9d9-9529563aa41e.html"
+        "name": "Deadline",
+        "url": "https://deadline.com/2026/07/god-of-war-recast-kratos-role-ryan-hurst-injured-on-set-1236984409/"
       }
     },
     {
-      "id": "ES-rap-7",
+      "id": "ES-pov-7",
       "country": "ES",
-      "type": "rap",
-      "topic": "El Plural",
-      "context": "El fracaso de Malinche, el musical de Nacho Cano que patrocinó Ayuso: debacle de espectadores y 6,2 millones en deudas",
-      "traffic": "200+",
-      "title": "🎤 Rap: El Plural",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «El fracaso de Malinche, el musical de Nacho Cano que patrocinó Ayuso: debacle de espectadores y 6,2 millones en deudas». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «El fracaso de Malinche, el musical de Nacho Cano que patrocinó Ayuso: debacle de espectadores y 6,2 millones en deudas» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre El Plural.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "type": "pov",
+      "topic": "Diego Pérez De Los Cobos",
+      "context": "Pérez de los Cobos ve una \"letal amenaza\" en la presión política a la UCO y teme que el Gobierno cambie la ley para desprotegerla",
+      "traffic": "500+",
+      "title": "🎭 POV: Diego Pérez De Los Cobos",
+      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Pérez de los Cobos ve una \"letal amenaza\" en la presión política a la UCO y teme que el Gobierno cambie la ley para desprotegerla». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Pérez de los Cobos ve una \"letal amenaza\" en la presión política a la UCO y teme que el Gobierno cambie la ley para desprotegerla».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Diego Pérez De Los Cobos…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "elDiario.es",
-        "url": "https://www.eldiario.es/madrid/somos/fracaso-malinche-musical-nacho-cano-patrocino-ayuso-debacle-espectadores-6-2-millones-deudas_1_13378273.html"
+        "name": "El Español",
+        "url": "https://www.elespanol.com/espana/20260714/perez-cobos-ve-letal-amenaza-presion-politica-uco-teme-gobierno-cambie-ley-desprotegerla/1003744320822_0.html"
       }
     },
     {
       "id": "ES-rap-8",
       "country": "ES",
       "type": "rap",
-      "topic": "Tadej Pogacar",
-      "context": "'Don't boo at him' - Jonas Vingegaard defends Tadej Pogačar against Tour de France hecklers",
-      "traffic": "200+",
-      "title": "🎤 Rap: Tadej Pogacar",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «'Don't boo at him' - Jonas Vingegaard defends Tadej Pogačar against Tour de France hecklers». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «'Don't boo at him' - Jonas Vingegaard defends Tadej Pogačar against Tour de France hecklers» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Tadej Pogacar.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "Julián Garde",
+      "context": "Julián Garde, presidente de los rectores: \"Alumnos con nota altísima no entran en lo que piden en la universidad pública porque no podemos ofertar más plazas\"",
+      "traffic": "100+",
+      "title": "🎤 Rap: Julián Garde",
+      "why": "Se está disparando en búsquedas en España AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Julián Garde, presidente de los rectores: \"Alumnos con nota altísima no entran en lo que piden en la universidad pública porque no podemos ofertar más plazas\"». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Julián Garde, presidente de los rectores: \"Alumnos con nota altísima no entran en lo que piden en la universidad pública porque no podemos ofertar más plazas\"» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Julián Garde.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Cyclingnews",
-        "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/dont-boo-at-him-jonas-vingegaard-defends-tadej-pogacar-against-tour-de-france-hecklers/"
+        "name": "El Mundo",
+        "url": "https://www.elmundo.es/espana/2026/07/17/6a58f6d8e4d4d8b6168b4596.html"
       }
     },
     {
-      "id": "ES-pov-9",
+      "id": "ES-humor-9",
       "country": "ES",
-      "type": "pov",
-      "topic": "Hoy Es El Día Del Carmen",
-      "context": "Cádiz espera a la Virgen del Carmen, gran devoción de la ciudad",
+      "type": "humor",
+      "topic": "Telecinco",
+      "context": "Ver ‘Pókemon’ en Telecinco hasta perder un Blastoise de nivel 100",
       "traffic": "100+",
-      "title": "🎭 POV: Hoy Es El Día Del Carmen",
-      "why": "Se está disparando en búsquedas en España AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Cádiz espera a la Virgen del Carmen, gran devoción de la ciudad». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Cádiz espera a la Virgen del Carmen, gran devoción de la ciudad».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Hoy Es El Día Del Carmen…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "title": "😂 Humor: Telecinco",
+      "why": "Se está disparando en búsquedas en España AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Ver ‘Pókemon’ en Telecinco hasta perder un Blastoise de nivel 100». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Ver ‘Pókemon’ en Telecinco hasta perder un Blastoise de nivel 100». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Telecinco… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Diario de Cádiz",
-        "url": "https://www.diariodecadiz.es/semana_santa/cadiz-espera-virgen-carmen-gran-devocion_0_2007422843.html"
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/television/2026-07-15/ver-pokemon-en-telecinco-hasta-perder-un-blastoise-de-nivel-100.html"
       }
     },
     {
       "id": "US-humor-10",
       "country": "US",
       "type": "humor",
-      "topic": "Time",
-      "context": "House passes bill to make Daylight Saving Time permanent",
-      "traffic": "5000+",
-      "title": "😂 Humor: Time",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «House passes bill to make Daylight Saving Time permanent». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «House passes bill to make Daylight Saving Time permanent». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Time… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Texas Flooding Flash Flood",
+      "context": "Texas flooding: 2 reported deaths in catastrophic Hill Country flooding",
+      "traffic": "20000+",
+      "title": "😂 Humor: Texas Flooding Flash Flood",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (20000+ búsquedas y subiendo). Lo que ha pasado: «Texas flooding: 2 reported deaths in catastrophic Hill Country flooding». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Texas flooding: 2 reported deaths in catastrophic Hill Country flooding». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Texas Flooding Flash Flood… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "CNN",
-        "url": "https://www.cnn.com/2026/07/14/politics/house-vote-daylight-savings-time"
+        "name": "FOX 7 Austin",
+        "url": "https://www.fox7austin.com/news/texas-flooding-kerr-county-evacuations"
       }
     },
     {
-      "id": "US-rap-11",
-      "country": "US",
-      "type": "rap",
-      "topic": "Events",
-      "context": "CarMax Park events company announces 6-week WinterWorld festival",
-      "traffic": "5000+",
-      "title": "🎤 Rap: Events",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «CarMax Park events company announces 6-week WinterWorld festival». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «CarMax Park events company announces 6-week WinterWorld festival» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Events.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
-      "source": {
-        "name": "Richmond BizSense",
-        "url": "https://richmondbizsense.com/2026/07/16/carmax-park-events-company-announces-6-week-winterworld-festival/"
-      }
-    },
-    {
-      "id": "US-pov-12",
+      "id": "US-pov-11",
       "country": "US",
       "type": "pov",
-      "topic": "Games",
-      "context": "PlayStation Plus Game Catalog for July – Avatar: Frontiers of Pandora, Rise of the Ronin, Firefighting Simulator: Ignite and more",
-      "traffic": "5000+",
-      "title": "🎭 POV: Games",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «PlayStation Plus Game Catalog for July – Avatar: Frontiers of Pandora, Rise of the Ronin, Firefighting Simulator: Ignite and more». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «PlayStation Plus Game Catalog for July – Avatar: Frontiers of Pandora, Rise of the Ronin, Firefighting Simulator: Ignite and more».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Games…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "topic": "Veterans Benefits Bill",
+      "context": "Disputed veterans benefits bill gets pulled before House vote",
+      "traffic": "10000+",
+      "title": "🎭 POV: Veterans Benefits Bill",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (10000+ búsquedas y subiendo). Lo que ha pasado: «Disputed veterans benefits bill gets pulled before House vote». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Disputed veterans benefits bill gets pulled before House vote».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Veterans Benefits Bill…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "PlayStation.Blog",
-        "url": "https://blog.playstation.com/2026/07/15/playstation-plus-game-catalog-for-july-avatar-frontiers-of-pandora-rise-of-the-ronin-firefighting-simulator-ignite-and-more/"
+        "name": "Military Times",
+        "url": "https://www.militarytimes.com/veterans/2026/07/16/disputed-veterans-benefits-bill-gets-pulled-before-house-vote/"
+      }
+    },
+    {
+      "id": "US-rap-12",
+      "country": "US",
+      "type": "rap",
+      "topic": "Gold Price",
+      "context": "Gold Heads for Weekly Fall as Hormuz Strikes Raise Fed-Hike Bets",
+      "traffic": "1000+",
+      "title": "🎤 Rap: Gold Price",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Gold Heads for Weekly Fall as Hormuz Strikes Raise Fed-Hike Bets». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Gold Heads for Weekly Fall as Hormuz Strikes Raise Fed-Hike Bets» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Gold Price.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "source": {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/gold-heads-for-weekly-fall-as-hormuz-strikes-raise-fed-hike-bets"
       }
     },
     {
       "id": "US-humor-13",
       "country": "US",
       "type": "humor",
-      "topic": "Maps",
-      "context": "Apple bans home services from its upcoming Maps ads",
-      "traffic": "5000+",
-      "title": "😂 Humor: Maps",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «Apple bans home services from its upcoming Maps ads». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Apple bans home services from its upcoming Maps ads». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Maps… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Oc Fair",
+      "context": "Orange County Fair Opens This Week As Prices Increase Again",
+      "traffic": "500+",
+      "title": "😂 Humor: Oc Fair",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Orange County Fair Opens This Week As Prices Increase Again». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Orange County Fair Opens This Week As Prices Increase Again». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Oc Fair… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/"
+        "name": "Voice of OC",
+        "url": "https://voiceofoc.org/2026/07/orange-county-fair-opens-this-week-as-prices-increase-again/"
       }
     },
     {
       "id": "US-pov-14",
       "country": "US",
       "type": "pov",
-      "topic": "News",
-      "context": "July 15, 2026 — US says new strikes on Iran aimed at protecting vessels in Strait of Hormuz",
-      "traffic": "5000+",
-      "title": "🎭 POV: News",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «July 15, 2026 — US says new strikes on Iran aimed at protecting vessels in Strait of Hormuz». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «July 15, 2026 — US says new strikes on Iran aimed at protecting vessels in Strait of Hormuz».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que News…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "topic": "Earthquake Near Me",
+      "context": "Light mag. 3.6 earthquake (unconfirmed) - Near Coast of Peru on Friday, Jul 17, 2026, at 12:36 am (GMT -5)",
+      "traffic": "200+",
+      "title": "🎭 POV: Earthquake Near Me",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Light mag. 3.6 earthquake (unconfirmed) - Near Coast of Peru on Friday, Jul 17, 2026, at 12:36 am (GMT -5)». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Light mag. 3.6 earthquake (unconfirmed) - Near Coast of Peru on Friday, Jul 17, 2026, at 12:36 am (GMT -5)».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Earthquake Near Me…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "CNN",
-        "url": "https://edition.cnn.com/2026/07/15/world/live-news/iran-war-trump"
+        "name": "Volcano Discovery",
+        "url": "https://www.volcanodiscovery.com/earthquakes/quake-info/23192216/mag3quake-Jul-17-2026-Near-Coast-of-Peru.html"
       }
     },
     {
       "id": "US-rap-15",
       "country": "US",
       "type": "rap",
-      "topic": "Shedeur Sanders",
-      "context": "Joe Flacco went off on Shedeur Sanders for wearing a helmet visor last season: 'You look like an idiot'",
-      "traffic": "2000+",
-      "title": "🎤 Rap: Shedeur Sanders",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «Joe Flacco went off on Shedeur Sanders for wearing a helmet visor last season: 'You look like an idiot'». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Joe Flacco went off on Shedeur Sanders for wearing a helmet visor last season: 'You look like an idiot'» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Shedeur Sanders.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "Kamar Williams",
+      "context": "Fans flood 80KTwins' father Travelle Williams' posts with prayers as Kamar remains missing",
+      "traffic": "200+",
+      "title": "🎤 Rap: Kamar Williams",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Fans flood 80KTwins' father Travelle Williams' posts with prayers as Kamar remains missing». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Fans flood 80KTwins' father Travelle Williams' posts with prayers as Kamar remains missing» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Kamar Williams.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Fox News",
-        "url": "https://www.foxnews.com/outkick-sports/joe-flacco-went-off-shedeur-sanders-wearing-helmet-visor-last-season-look-like-idiot"
+        "name": "The Express Tribune",
+        "url": "https://tribune.com.pk/story/2618741/fans-flood-80ktwins-father-travelle-williams-posts-with-prayers-as-kamar-remains-missing"
       }
     },
     {
       "id": "US-humor-16",
       "country": "US",
       "type": "humor",
-      "topic": "United States Midterm Election",
-      "context": "How Democrats’ datacenter push in swing states is risking their midterm hopes",
-      "traffic": "500+",
-      "title": "😂 Humor: United States Midterm Election",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «How Democrats’ datacenter push in swing states is risking their midterm hopes». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «How Democrats’ datacenter push in swing states is risking their midterm hopes». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que United States Midterm Election… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Money",
+      "context": "The Mystery Money Powering Trump’s Second Term",
+      "traffic": "200+",
+      "title": "😂 Humor: Money",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «The Mystery Money Powering Trump’s Second Term». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «The Mystery Money Powering Trump’s Second Term». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Money… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jul/15/datacenter-midterm-democrats-swing-states"
+        "name": "WSJ",
+        "url": "https://www.wsj.com/politics/policy/trump-fundraising-groups-financial-disclosures-8d5f5c35"
       }
     },
     {
       "id": "US-pov-17",
       "country": "US",
       "type": "pov",
-      "topic": "Is Fortnite Down",
-      "context": "Fortnite servers face downtime during updates, new seasons",
+      "topic": "Robert Englund",
+      "context": "New 'Nightmare on Elm Street' in the works from Paramount",
       "traffic": "200+",
-      "title": "🎭 POV: Is Fortnite Down",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Fortnite servers face downtime during updates, new seasons». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Fortnite servers face downtime during updates, new seasons».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Is Fortnite Down…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "title": "🎭 POV: Robert Englund",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «New 'Nightmare on Elm Street' in the works from Paramount». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «New 'Nightmare on Elm Street' in the works from Paramount».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Robert Englund…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "Cincinnati Enquirer",
-        "url": "https://www.cincinnati.com/videos/entertainment/2026/07/15/fortnite-servers-down-back-up-new-season-skins-characters/90928391007/"
+        "name": "KHGI",
+        "url": "https://nebraska.tv/news/entertainment/new-nightmare-on-elm-street-in-the-works-from-paramount"
       }
     },
     {
       "id": "US-rap-18",
       "country": "US",
       "type": "rap",
-      "topic": "Fortnite",
-      "context": "The Odyssey Cup Battle Royale in NA Central: Session 1",
-      "traffic": "200+",
-      "title": "🎤 Rap: Fortnite",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «The Odyssey Cup Battle Royale in NA Central: Session 1». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «The Odyssey Cup Battle Royale in NA Central: Session 1» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Fortnite.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "Budget",
+      "context": "Republican Rifts Deepen Over $95 Billion Budget Plan for Iran War and SAVE Act",
+      "traffic": "100+",
+      "title": "🎤 Rap: Budget",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Republican Rifts Deepen Over $95 Billion Budget Plan for Iran War and SAVE Act». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Republican Rifts Deepen Over $95 Billion Budget Plan for Iran War and SAVE Act» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Budget.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Fortnite Tracker",
-        "url": "https://fortnitetracker.com/events/epicgames_S41_TheOdysseyCup_NAC"
-      }
-    },
-    {
-      "id": "US-humor-19",
-      "country": "US",
-      "type": "humor",
-      "topic": "Plummer",
-      "context": "Christopher Plummer's former Darien estate back on market for nearly $13 million",
-      "traffic": "200+",
-      "title": "😂 Humor: Plummer",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Christopher Plummer's former Darien estate back on market for nearly $13 million». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Christopher Plummer's former Darien estate back on market for nearly $13 million». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Plummer… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
-      "source": {
-        "name": "CT Insider",
-        "url": "https://www.ctinsider.com/realestate/article/christopher-plummer-darien-13-m-22340172.php"
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html"
       }
     }
   ]
