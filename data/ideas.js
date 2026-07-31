@@ -1,6 +1,6 @@
 // Generado automáticamente cada día. No editar a mano.
 window.GARZI_DATA = {
-  "updatedAt": "2026-07-30T08:35:48.737Z",
+  "updatedAt": "2026-07-31T08:56:45.223Z",
   "countries": {
     "ES": "España",
     "US": "Estados Unidos"
@@ -10,300 +10,300 @@ window.GARZI_DATA = {
       "id": "ES-humor-0",
       "country": "ES",
       "type": "humor",
-      "topic": "La Sexta",
-      "context": "El lento declive de La Sexta",
-      "traffic": "500+",
-      "title": "😂 Humor: La Sexta",
-      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «El lento declive de La Sexta». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «El lento declive de La Sexta». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que La Sexta… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "María Jesús Montero",
+      "context": "PSOE SENADO | María Jesús Montero entra en la dirección del Grupo Socialista del Senado",
+      "traffic": "2000+",
+      "title": "😂 Humor: María Jesús Montero",
+      "why": "Se está disparando en búsquedas en España AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «PSOE SENADO | María Jesús Montero entra en la dirección del Grupo Socialista del Senado». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «PSOE SENADO | María Jesús Montero entra en la dirección del Grupo Socialista del Senado». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que María Jesús Montero… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/television/2026-07-30/el-lento-declive-de-la-sexta.html"
+        "name": "El Periódico",
+        "url": "https://www.elperiodico.com/es/politica/20260731/maria-jesus-montero-direccion-psoe-senado-132982952"
       }
     },
     {
       "id": "ES-pov-1",
       "country": "ES",
       "type": "pov",
-      "topic": "Ale Rubio",
-      "context": "Alejandra Rubio: \"No me dieron a elegir ser una Campos. Estaba condenada a ser famosa desde que nací y lo voy a seguir siendo toda la vida\"",
+      "topic": "De Qué Ha Muerto Franco Baresi",
+      "context": "Muere Franco Baresi, última hora en directo: todas las reacciones a la muerte de la leyenda del Milan e Italia",
       "traffic": "500+",
-      "title": "🎭 POV: Ale Rubio",
-      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Alejandra Rubio: \"No me dieron a elegir ser una Campos. Estaba condenada a ser famosa desde que nací y lo voy a seguir siendo toda la vida\"». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Alejandra Rubio: \"No me dieron a elegir ser una Campos. Estaba condenada a ser famosa desde que nací y lo voy a seguir siendo toda la vida\"».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Ale Rubio…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "title": "🕊️ Homenaje: De Qué Ha Muerto Franco Baresi",
+      "why": "Tema muy sensible que está estallando en España (500+ búsquedas y subiendo). Lo que ha pasado: «Muere Franco Baresi, última hora en directo: todas las reacciones a la muerte de la leyenda del Milan e Italia». Aquí el humor NO funciona y puede quemarte: tira de homenaje o de un POV emotivo y respetuoso. La gente comparte lo que emociona, no solo lo que hace gracia.",
+      "script": "🕊️ TONO: respeto total. Nada de chistes.\n🎬 GANCHO (0-3s): a cámara, serio — «Tenemos que hablar de De Qué Ha Muerto Franco Baresi.»\n💬 DESARROLLO: qué ha pasado y por qué importaba a la gente. Una anécdota o recuerdo.\n🤍 REMATE: mensaje bonito o reflexión. Texto en pantalla: «DEP».\n📌 CTA: «Déjale un mensaje en comentarios».",
       "source": {
-        "name": "El Mundo",
-        "url": "https://www.elmundo.es/papel/2026/07/29/6a564bb621efa037708b4585.html"
+        "name": "Diario AS",
+        "url": "https://as.com/futbol/internacional/muere-franco-baresi-ultima-hora-en-directo-reacciones-a-la-muerte-del-futbolista-del-milan-hoy-en-vivo-f202607-d/"
       }
     },
     {
-      "id": "ES-rap-2",
-      "country": "ES",
-      "type": "rap",
-      "topic": "Isabel Preysler",
-      "context": "“Llegaron a Santo Domingo con vuelo regular. Isabel llevaba traje chaqueta negro. Boyer, americana sin corbata. Tamara, vaqueros”: Isabel Preysler al sol del Caribe",
-      "traffic": "200+",
-      "title": "🎤 Rap: Isabel Preysler",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «“Llegaron a Santo Domingo con vuelo regular. Isabel llevaba traje chaqueta negro. Boyer, americana sin corbata. Tamara, vaqueros”: Isabel Preysler al sol del Caribe». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «“Llegaron a Santo Domingo con vuelo regular. Isabel llevaba traje chaqueta negro. Boyer, americana sin corbata. Tamara, vaqueros”: Isabel Preysler al sol del Caribe» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Isabel Preysler.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
-      "source": {
-        "name": "Lecturas",
-        "url": "https://www.lecturas.com/epoca-dorada/llegaron-a-santo-domingo-vuelo-regular-isabel-llevaba-traje-chaqueta-negro-boyer-americana-sin-corbata-tamara-vaqueros-isabel-preysler-sol-caribe_196438"
-      }
-    },
-    {
-      "id": "ES-humor-3",
+      "id": "ES-humor-2",
       "country": "ES",
       "type": "humor",
-      "topic": "Matthias Jaissle",
-      "context": "Eddie Howe verlässt Newcastle, Arsenal jagt weiter Bruno",
-      "traffic": "200+",
-      "title": "😂 Humor: Matthias Jaissle",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Eddie Howe verlässt Newcastle, Arsenal jagt weiter Bruno». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Eddie Howe verlässt Newcastle, Arsenal jagt weiter Bruno». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Matthias Jaissle… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "En Boca De Todos",
+      "context": "Nacho Abad planta cara a las acusaciones de \"bulero\" con un recado a Jesús Cintora",
+      "traffic": "500+",
+      "title": "😂 Humor: En Boca De Todos",
+      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Nacho Abad planta cara a las acusaciones de \"bulero\" con un recado a Jesús Cintora». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Nacho Abad planta cara a las acusaciones de \"bulero\" con un recado a Jesús Cintora». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que En Boca De Todos… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "OneFootball",
-        "url": "https://onefootball.com/es/noticias/eddie-howe-verlaesst-newcastle-arsenal-jagt-weiter-bruno-43205112"
+        "name": "Libertad Digital",
+        "url": "https://www.libertaddigital.com/chic/entretenimiento/2026-07-30/nacho-abad-planta-cara-a-las-acusaciones-de-bulero-con-un-recado-a-jesus-cintora-7443414/"
+      }
+    },
+    {
+      "id": "ES-rap-3",
+      "country": "ES",
+      "type": "rap",
+      "topic": "Rey De Marruecos",
+      "context": "El rey Mohamed VI de Marruecos se ve impulsado por el padrinazgo de Donald Trump",
+      "traffic": "500+",
+      "title": "🎤 Rap: Rey De Marruecos",
+      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «El rey Mohamed VI de Marruecos se ve impulsado por el padrinazgo de Donald Trump». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «El rey Mohamed VI de Marruecos se ve impulsado por el padrinazgo de Donald Trump» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Rey De Marruecos.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "source": {
+        "name": "El Mundo",
+        "url": "https://www.elmundo.es/internacional/2026/07/30/6a6b671ce85ece51188b45af.html"
       }
     },
     {
       "id": "ES-pov-4",
       "country": "ES",
       "type": "pov",
-      "topic": "Eddie Howe",
-      "context": "Eddie Howe leaves Newcastle United - live reaction",
+      "topic": "José Andrés",
+      "context": "El enfado de José Andrés con una popular clasificación culinaria: \"España tiene la mayor cultura del cerdo del mundo\"",
       "traffic": "200+",
-      "title": "🎭 POV: Eddie Howe",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Eddie Howe leaves Newcastle United - live reaction». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Eddie Howe leaves Newcastle United - live reaction».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Eddie Howe…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "title": "🎭 POV: José Andrés",
+      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «El enfado de José Andrés con una popular clasificación culinaria: \"España tiene la mayor cultura del cerdo del mundo\"». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «El enfado de José Andrés con una popular clasificación culinaria: \"España tiene la mayor cultura del cerdo del mundo\"».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que José Andrés…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/ckgd939eydnt"
+        "name": "La Razón",
+        "url": "https://www.larazon.es/gastronomia/enfado-jose-andres-popular-clasificacion-culinaria-espana-tiene-mayor-cultura-cerdo-mundo-b50m_202607316a6c315c71b42a0b5dd0f700.html"
       }
     },
     {
       "id": "ES-rap-5",
       "country": "ES",
       "type": "rap",
-      "topic": "Arizonicas",
-      "context": "",
+      "topic": "Сеута",
+      "context": "В испанскую Сеуту через границу с Марокко проникли две тысячи нелегальных мигрантов. Власти Испании направили в город армию",
       "traffic": "200+",
-      "title": "🎤 Rap: Arizonicas",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «el tema de Arizonicas» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Arizonicas.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "title": "🎤 Rap: Сеута",
+      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «В испанскую Сеуту через границу с Марокко проникли две тысячи нелегальных мигрантов. Власти Испании направили в город армию». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «В испанскую Сеуту через границу с Марокко проникли две тысячи нелегальных мигрантов. Власти Испании направили в город армию» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Сеута.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Google Trends",
-        "url": "https://www.google.com/search?q=arizonicas"
+        "name": "Meduza",
+        "url": "https://meduza.io/news/2026/07/30/v-ispanskuyu-seutu-cherez-granitsu-s-marokko-pronikli-dve-tysyachi-nelegalnyh-migrantov-vlasti-ispanii-napravili-v-gorod-armiyu"
       }
     },
     {
       "id": "ES-humor-6",
       "country": "ES",
       "type": "humor",
-      "topic": "El Niño De Las Monjas",
-      "context": "Preocupante cornada en el cuello al Niño de las Monjas en un pueblo del Perú",
-      "traffic": "200+",
-      "title": "😂 Humor: El Niño De Las Monjas",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Preocupante cornada en el cuello al Niño de las Monjas en un pueblo del Perú». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Preocupante cornada en el cuello al Niño de las Monjas en un pueblo del Perú». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que El Niño De Las Monjas… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Tornavacas",
+      "context": "Se declara un nuevo incendio forestal en Cáceres, mientras mejora la situación en el de Fermoselle, en Zamora",
+      "traffic": "100+",
+      "title": "😂 Humor: Tornavacas",
+      "why": "Se está disparando en búsquedas en España AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Se declara un nuevo incendio forestal en Cáceres, mientras mejora la situación en el de Fermoselle, en Zamora». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Se declara un nuevo incendio forestal en Cáceres, mientras mejora la situación en el de Fermoselle, en Zamora». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Tornavacas… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "ABC",
-        "url": "https://www.abc.es/cultura/toros/dramatica-cornada-cuello-nino-monjas-pueblo-peru-20260730071741-nt.html"
+        "name": "El Mundo",
+        "url": "https://www.elmundo.es/espana/2026/07/31/6a6c5287e9cf4a50378b45b0.html"
       }
     },
     {
       "id": "ES-pov-7",
       "country": "ES",
       "type": "pov",
-      "topic": "Telefónica",
-      "context": "Luis de la Fuente, tras conquistar el Mundial: \"Seguiremos intentando hacer las cosas igual de bien\"",
-      "traffic": "200+",
-      "title": "🎭 POV: Telefónica",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Luis de la Fuente, tras conquistar el Mundial: \"Seguiremos intentando hacer las cosas igual de bien\"». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Luis de la Fuente, tras conquistar el Mundial: \"Seguiremos intentando hacer las cosas igual de bien\"».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Telefónica…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "topic": "Wonder Man",
+      "context": "‘Wonder Man’ Not Returning for Season 2 at Disney+ (EXCLUSIVE)",
+      "traffic": "100+",
+      "title": "🎭 POV: Wonder Man",
+      "why": "Se está disparando en búsquedas en España AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «‘Wonder Man’ Not Returning for Season 2 at Disney+ (EXCLUSIVE)». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «‘Wonder Man’ Not Returning for Season 2 at Disney+ (EXCLUSIVE)».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Wonder Man…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "MARCA",
-        "url": "https://www.marca.com/futbol/seleccion/2026/07/29/luis-fuente-conquistar-mundial-seguiremos-intentando-cosas-igual-bien-video.html"
+        "name": "Variety",
+        "url": "https://variety.com/2026/tv/news/wonder-man-canceled-disney-season-2-renewal-1236824259/"
       }
     },
     {
       "id": "ES-rap-8",
       "country": "ES",
       "type": "rap",
-      "topic": "Trent Alexander-arnold",
-      "context": "Trent acepta el reto",
-      "traffic": "200+",
-      "title": "🎤 Rap: Trent Alexander-arnold",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Trent acepta el reto». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Trent acepta el reto» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Trent Alexander-arnold.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "Juan Carlos Aragón",
+      "context": "Juan Carlos Aragón perderá el Antifaz de Oro",
+      "traffic": "100+",
+      "title": "🎤 Rap: Juan Carlos Aragón",
+      "why": "Se está disparando en búsquedas en España AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Juan Carlos Aragón perderá el Antifaz de Oro». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Juan Carlos Aragón perderá el Antifaz de Oro» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Juan Carlos Aragón.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Diario AS",
-        "url": "https://as.com/futbol/primera/trent-acepta-el-reto-f202607-n/"
+        "name": "Diario de Cádiz",
+        "url": "https://www.diariodecadiz.es/cadiz/antifaz-oro-reconocimiento-perdera-juan_0_2007617657.html"
       }
     },
     {
       "id": "ES-humor-9",
       "country": "ES",
       "type": "humor",
-      "topic": "Asml",
-      "context": "LIVE | Chinees chipnieuws zet ASML en Besi onder druk, AEX sluit in de min",
+      "topic": "Xbox",
+      "context": "A pesar de llegar a «más de 200 millones de nuevos jugadores», Xbox sigue en rojo",
       "traffic": "100+",
-      "title": "😂 Humor: Asml",
-      "why": "Se está disparando en búsquedas en España AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «LIVE | Chinees chipnieuws zet ASML en Besi onder druk, AEX sluit in de min». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «LIVE | Chinees chipnieuws zet ASML en Besi onder druk, AEX sluit in de min». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Asml… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "title": "😂 Humor: Xbox",
+      "why": "Se está disparando en búsquedas en España AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «A pesar de llegar a «más de 200 millones de nuevos jugadores», Xbox sigue en rojo». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «A pesar de llegar a «más de 200 millones de nuevos jugadores», Xbox sigue en rojo». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Xbox… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "De Telegraaf",
-        "url": "https://www.telegraaf.nl/financieel/live-chinees-chipnieuws-zet-asml-en-besi-onder-druk-aex-sluit-in-de-min/159229727.html"
+        "name": "AnaitGames",
+        "url": "https://www.anaitgames.com/podcast/recarga-activa/xbox-resultados-fiscales-fy27"
       }
     },
     {
       "id": "US-humor-10",
       "country": "US",
       "type": "humor",
-      "topic": "Lottery Powerball Winning Numbers",
-      "context": "Powerball Jackpot Tops $700 Million—Here’s What The Winner Could Take Home",
+      "topic": "Market",
+      "context": "Nasdaq futures rise as Wall Street rebounds; Kospi soars 13%, triggers trading curbs: Live updates",
       "traffic": "10000+",
-      "title": "😂 Humor: Lottery Powerball Winning Numbers",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (10000+ búsquedas y subiendo). Lo que ha pasado: «Powerball Jackpot Tops $700 Million—Here’s What The Winner Could Take Home». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Powerball Jackpot Tops $700 Million—Here’s What The Winner Could Take Home». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Lottery Powerball Winning Numbers… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "title": "😂 Humor: Market",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (10000+ búsquedas y subiendo). Lo que ha pasado: «Nasdaq futures rise as Wall Street rebounds; Kospi soars 13%, triggers trading curbs: Live updates». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Nasdaq futures rise as Wall Street rebounds; Kospi soars 13%, triggers trading curbs: Live updates». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Market… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/siladityaray/2026/07/30/powerball-jackpot-tops-700-million-heres-what-the-winner-could-take-home/"
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html"
       }
     },
     {
-      "id": "US-pov-11",
-      "country": "US",
-      "type": "pov",
-      "topic": "Sports",
-      "context": "Tennessee's Arion Carter suspended 2 games over $427 flight",
-      "traffic": "10000+",
-      "title": "🎭 POV: Sports",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (10000+ búsquedas y subiendo). Lo que ha pasado: «Tennessee's Arion Carter suspended 2 games over $427 flight». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Tennessee's Arion Carter suspended 2 games over $427 flight».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Sports…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
-      "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/college-football/story/_/id/49480319/tennessee-arion-carter-suspended-2-games-427-flight"
-      }
-    },
-    {
-      "id": "US-rap-12",
+      "id": "US-rap-11",
       "country": "US",
       "type": "rap",
-      "topic": "Cardinals Stats",
-      "context": "Cardinals 3-2 Cubs (Jul 29, 2026) Game Recap",
+      "topic": "Molly Santana X North West Kimokawaii Tour",
+      "context": "North West Cancels First Headlining Tour with Rapper Molly Santana Days Before Kick Off Show",
       "traffic": "1000+",
-      "title": "🎤 Rap: Cardinals Stats",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Cardinals 3-2 Cubs (Jul 29, 2026) Game Recap». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Cardinals 3-2 Cubs (Jul 29, 2026) Game Recap» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Cardinals Stats.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "title": "🎤 Rap: Molly Santana X North West Kimokawaii Tour",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «North West Cancels First Headlining Tour with Rapper Molly Santana Days Before Kick Off Show». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «North West Cancels First Headlining Tour with Rapper Molly Santana Days Before Kick Off Show» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Molly Santana X North West Kimokawaii Tour.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/mlb/recap/_/gameId/401816314"
+        "name": "People.com",
+        "url": "https://people.com/north-west-first-headlining-tour-with-rapper-molly-santana-cancelled-12031561"
+      }
+    },
+    {
+      "id": "US-pov-12",
+      "country": "US",
+      "type": "pov",
+      "topic": "Swimming Competition",
+      "context": "2026 U.S. National Championship: Day 1 Finals Live Recap",
+      "traffic": "200+",
+      "title": "🎭 POV: Swimming Competition",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «2026 U.S. National Championship: Day 1 Finals Live Recap». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «2026 U.S. National Championship: Day 1 Finals Live Recap».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Swimming Competition…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "source": {
+        "name": "SwimSwam",
+        "url": "https://swimswam.com/2026-u-s-national-championship-day-1-finals-live-recap/"
       }
     },
     {
       "id": "US-humor-13",
       "country": "US",
       "type": "humor",
-      "topic": "Rocket Launch Today",
-      "context": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office",
-      "traffic": "1000+",
-      "title": "😂 Humor: Rocket Launch Today",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Live coverage: SpaceX to launch classified payload for National Reconnaissance Office». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Live coverage: SpaceX to launch classified payload for National Reconnaissance Office». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Rocket Launch Today… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Housing Development",
+      "context": "Conservation commissioners walk proposed site of 17-unit ‘starter housing’ development near Salmon Brook",
+      "traffic": "200+",
+      "title": "😂 Humor: Housing Development",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Conservation commissioners walk proposed site of 17-unit ‘starter housing’ development near Salmon Brook». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Conservation commissioners walk proposed site of 17-unit ‘starter housing’ development near Salmon Brook». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Housing Development… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Spaceflight Now",
-        "url": "https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/"
+        "name": "Nashua Ink Link",
+        "url": "https://nashua.inklink.news/conservation-commissioners-walk-proposed-site-of-17-unit-starter-housing-development-near-salmon-brook/"
       }
     },
     {
       "id": "US-pov-14",
       "country": "US",
       "type": "pov",
-      "topic": "Is Fortnite Down",
-      "context": "Everything Coming in Fortnite’s July 30 Update: Simpsons Map, Spider-Man Skins and More",
-      "traffic": "500+",
-      "title": "🎭 POV: Is Fortnite Down",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Everything Coming in Fortnite’s July 30 Update: Simpsons Map, Spider-Man Skins and More». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Everything Coming in Fortnite’s July 30 Update: Simpsons Map, Spider-Man Skins and More».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Is Fortnite Down…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "topic": "Housing Authority",
+      "context": "Housing Authority Buys Clock Shop",
+      "traffic": "200+",
+      "title": "🎭 POV: Housing Authority",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Housing Authority Buys Clock Shop». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Housing Authority Buys Clock Shop».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Housing Authority…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "VICE",
-        "url": "https://www.vice.com/en/article/everything-coming-in-fortnites-july-30-update-simpsons-map-spider-man-skins-and-more/"
+        "name": "New Haven Independent",
+        "url": "https://www.newhavenindependent.org/2026/07/30/housing-authority-buys-clock-shop/"
       }
     },
     {
       "id": "US-rap-15",
       "country": "US",
       "type": "rap",
-      "topic": "Detroit Lions Schedule",
-      "context": "✈️ Travel Photos: Giants fly to West Virginia",
-      "traffic": "500+",
-      "title": "🎤 Rap: Detroit Lions Schedule",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «✈️ Travel Photos: Giants fly to West Virginia». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «✈️ Travel Photos: Giants fly to West Virginia» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Detroit Lions Schedule.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "Blood Bank",
+      "context": "Houchin Community Blood Bank celebrates 5th year partnering with Blood Emergency Readiness Corps",
+      "traffic": "200+",
+      "title": "🎤 Rap: Blood Bank",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Houchin Community Blood Bank celebrates 5th year partnering with Blood Emergency Readiness Corps». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Houchin Community Blood Bank celebrates 5th year partnering with Blood Emergency Readiness Corps» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Blood Bank.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Giants.com",
-        "url": "https://www.giants.com/photos/travel-photos-giants-fly-to-west-virginia"
+        "name": "KGET.com",
+        "url": "https://www.kget.com/news/local-news/houchin-community-blood-bank-celebrates-5th-year-partnering-with-blood-emergency-readiness-corps/"
       }
     },
     {
       "id": "US-humor-16",
       "country": "US",
       "type": "humor",
-      "topic": "Matthias Jaissle",
-      "context": "Transfer-Ticker: Eddie Howe verlässt Newcastle – übernimmt Matthias Jaissle?",
-      "traffic": "200+",
-      "title": "😂 Humor: Matthias Jaissle",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Transfer-Ticker: Eddie Howe verlässt Newcastle – übernimmt Matthias Jaissle?». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Transfer-Ticker: Eddie Howe verlässt Newcastle – übernimmt Matthias Jaissle?». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Matthias Jaissle… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Kioxia Stock",
+      "context": "Kioxia Sets 3-For-1 Stock Split After Profit Misses Estimates",
+      "traffic": "100+",
+      "title": "😂 Humor: Kioxia Stock",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Kioxia Sets 3-For-1 Stock Split After Profit Misses Estimates». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Kioxia Sets 3-For-1 Stock Split After Profit Misses Estimates». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Kioxia Stock… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "n-tv.de",
-        "url": "https://www.n-tv.de/sport/fussball/transfermarkt/Transfer-Ticker-Eddie-Howe-verlaesst-Newcastle-uebernimmt-Matthias-Jaissle-id31140746.html"
+        "name": "Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-31/kioxia-sets-3-for-1-stock-split-after-profit-misses-estimates"
       }
     },
     {
       "id": "US-pov-17",
       "country": "US",
       "type": "pov",
-      "topic": "Punisher",
-      "context": "Meet The Punisher, Spider-Man character who can change Peter Parker's brand new day",
+      "topic": "Loans",
+      "context": "HSBC sells $25 billion Australian loan portfolio to Blackstone",
       "traffic": "100+",
-      "title": "🎭 POV: Punisher",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Meet The Punisher, Spider-Man character who can change Peter Parker's brand new day». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Meet The Punisher, Spider-Man character who can change Peter Parker's brand new day».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Punisher…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "title": "🎭 POV: Loans",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «HSBC sells $25 billion Australian loan portfolio to Blackstone». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «HSBC sells $25 billion Australian loan portfolio to Blackstone».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Loans…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "India Today",
-        "url": "https://www.indiatoday.in/movies/hollywood/story/spider-man-brand-new-day-punisher-clash-tests-peter-parkers-darkest-phase-2959473-2026-07-30"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/transactional/hsbc-sell-253-billion-australian-home-loan-portfolio-blackstone-2026-07-30/"
       }
     },
     {
       "id": "US-rap-18",
       "country": "US",
       "type": "rap",
-      "topic": "Spacex Launch",
-      "context": "SpaceX gets $1.6 billion US Space Force order for 18 Falcon 9 launches",
+      "topic": "Napalm",
+      "context": "Modern Metalcore Band IRIDIUM Signs with Napalm Records",
       "traffic": "100+",
-      "title": "🎤 Rap: Spacex Launch",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «SpaceX gets $1.6 billion US Space Force order for 18 Falcon 9 launches». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «SpaceX gets $1.6 billion US Space Force order for 18 Falcon 9 launches» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Spacex Launch.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "title": "🎤 Rap: Napalm",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Modern Metalcore Band IRIDIUM Signs with Napalm Records». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Modern Metalcore Band IRIDIUM Signs with Napalm Records» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Napalm.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/media-telecom/spacex-gets-16-billion-us-space-force-order-18-falcon-9-launches-2026-07-29/"
+        "name": "https://rocknloadmag.com/",
+        "url": "https://rocknloadmag.com/modern-metalcore-band-iridium-signs-with-napalm-records/"
       }
     },
     {
-      "id": "US-humor-19",
+      "id": "US-rap-19",
       "country": "US",
-      "type": "humor",
-      "topic": "Bianca Censori",
-      "context": "Bianca Censori brings back her most controversial look ever for Ibiza night out",
+      "type": "rap",
+      "topic": "Spiderman Brand New Day Soundtrack",
+      "context": "Spider-Man: Brand New Day Soundtrack: Every Song in Tom Holland’s Sequel",
       "traffic": "100+",
-      "title": "😂 Humor: Bianca Censori",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Bianca Censori brings back her most controversial look ever for Ibiza night out». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Bianca Censori brings back her most controversial look ever for Ibiza night out». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Bianca Censori… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "title": "🎤 Rap: Spiderman Brand New Day Soundtrack",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Spider-Man: Brand New Day Soundtrack: Every Song in Tom Holland’s Sequel». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Spider-Man: Brand New Day Soundtrack: Every Song in Tom Holland’s Sequel» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Spiderman Brand New Day Soundtrack.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Page Six",
-        "url": "https://pagesix.com/2026/07/29/style/bianca-censori-bares-all-in-sheer-bodysuit-for-ibiza-night-out/"
+        "name": "IMDb",
+        "url": "https://www.imdb.com/news/ni65950919/?ref_=ttnw_art_perm"
       }
     }
   ]
