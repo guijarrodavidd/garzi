@@ -1,309 +1,309 @@
 // Generado automáticamente cada día. No editar a mano.
 window.GARZI_DATA = {
-  "updatedAt": "2026-08-28T18:26:01.806Z",
+  "updatedAt": "2026-08-29T12:32:22.049Z",
   "countries": {
     "ES": "España",
     "US": "Estados Unidos"
   },
   "ideas": [
     {
-      "id": "ES-humor-0",
-      "country": "ES",
-      "type": "humor",
-      "topic": "Bayern - Stuttgart",
-      "context": "Bundesliga: FC Bayern – VfB Stuttgart: Aufstellung da! Kompany setzt Abwehr-Star auf die Bank",
-      "traffic": "5000+",
-      "title": "😂 Humor: Bayern - Stuttgart",
-      "why": "Se está disparando en búsquedas en España AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «Bundesliga: FC Bayern – VfB Stuttgart: Aufstellung da! Kompany setzt Abwehr-Star auf die Bank». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Bundesliga: FC Bayern – VfB Stuttgart: Aufstellung da! Kompany setzt Abwehr-Star auf die Bank». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Bayern - Stuttgart… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
-      "source": {
-        "name": "BILD",
-        "url": "https://www.bild.de/sport/fussball/bundesliga-fc-bayern-vfb-stuttgart-aufstellung-da-kompany-setzt-abwehr-star-auf-die-bank-6a91bcdbd88567044d848741"
-      }
-    },
-    {
-      "id": "ES-pov-1",
-      "country": "ES",
-      "type": "pov",
-      "topic": "Losc - Psg",
-      "context": "Entre questionnements et promesses, Lille et le PSG arrivent au pied d'un grand rendez-vous de Ligue 1 placé sous le signe de l'Europe",
-      "traffic": "2000+",
-      "title": "🎭 POV: Losc - Psg",
-      "why": "Se está disparando en búsquedas en España AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «Entre questionnements et promesses, Lille et le PSG arrivent au pied d'un grand rendez-vous de Ligue 1 placé sous le signe de l'Europe». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Entre questionnements et promesses, Lille et le PSG arrivent au pied d'un grand rendez-vous de Ligue 1 placé sous le signe de l'Europe».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Losc - Psg…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
-      "source": {
-        "name": "L'Équipe",
-        "url": "https://www.lequipe.fr/Football/Article/Entre-questionnements-et-promesses-lille-et-le-psg-arrivent-au-pied-d-un-grand-rendez-vous-de-ligue-1-place-sous-le-signe-de-l-europe/1714024"
-      }
-    },
-    {
-      "id": "ES-rap-2",
+      "id": "ES-rap-0",
       "country": "ES",
       "type": "rap",
-      "topic": "Crystal Palace - Manchester City",
-      "context": "Crystal Palace vs Manchester City: Premier League preview, team news, stats & head-to-head",
-      "traffic": "1000+",
-      "title": "🎤 Rap: Crystal Palace - Manchester City",
-      "why": "Se está disparando en búsquedas en España AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Crystal Palace vs Manchester City: Premier League preview, team news, stats & head-to-head». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Crystal Palace vs Manchester City: Premier League preview, team news, stats & head-to-head» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Crystal Palace - Manchester City.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "Faro Santander arranca con una fiesta de música, juegos y luz y visita gratuita del 8 al 17 de septiembre",
+      "context": "",
+      "traffic": "",
+      "title": "🎤 Rap: Faro Santander arranca con una fiesta de música, juegos y luz y visita gratuita del 8 al 17 de septiembre",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «el tema de Faro Santander arranca con una fiesta de música, juegos y luz y visita gratuita del 8 al 17 de septiembre» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Faro Santander arranca con una fiesta de música, juegos y luz y visita gratuita del 8 al 17 de septiembre.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c84gwgggzpv4t"
+        "name": "elDiario.es",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVjNSTnhfMllSdTByZkVET0RQSkpfT2FVcjlPRjdtYU9Vd3dyYktPMjh1UWhjWnpEUFZpWnlVZVA5WVdCbC12VjhMeUtkX09aT1FhbVdNYzBsbF9reGVmdC1LbGZnS1VncTBxZ1pYbUlpbGZZeG9TR1hHeS0tNjU4NERMWVB2VmtjYzRVYTF3X1V3Z0s1UnpJdUI0cllKbWtiZDVlbnp6WGhtNDc0UlFVTUtUSkNUMFotbFpZS1kxSktJSWJHMlZNQ9IBzgFBVV95cUxPTWJMcFRUWlJmZy1saU5CeVhqYTlJeFQ5OVRtLUU0bmxZajd0MDJrd0xLM3I3clctWkxXdlNQME9jT1hvTlB5eUFGUTBycnF0eUEySUZjdDlzRzcweVdMSjk1Q2NGZG9DcF92TnRQcTBGZ3llcHZmWjFuR0pQMFNWa0RMZVhMeU9MWnUwdlZMV2F5bFZjb3oxbGNwRG5ZcC1yM0xDd2NCVVQzOWw2N0pjODlLZFI2OGh0YmFzTDloR1Z2Wk9EOVNtTGkzRTkwUQ?oc=5"
       }
     },
     {
-      "id": "ES-humor-3",
+      "id": "ES-rap-1",
+      "country": "ES",
+      "type": "rap",
+      "topic": "El concierto en el que vi a mi ídolo caer: ¿cuándo es el momento para dejar de ver a nuestros héroes musicales?",
+      "context": "",
+      "traffic": "",
+      "title": "🎤 Rap: El concierto en el que vi a mi ídolo caer: ¿cuándo es el momento para dejar de ver a nuestros héroes musicales?",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «el tema de El concierto en el que vi a mi ídolo caer: ¿cuándo es el momento para dejar de ver a nuestros héroes musicales?» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre El concierto en el que vi a mi ídolo caer: ¿cuándo es el momento para dejar de ver a nuestros héroes musicales?.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVkZ5NUViVm5TUFU0V3JBNnB1V2JJdWdaTDd4c1ZiNlFrZVFtMGVxM05uczN5MXB6TTBVRU9FUHFITEVFR1VTZ3JLRnRIVXNYOFVuNDg1MG44YXRYRlhFWlpvRHZ2ZVZDRTBKNG5CTk5CcTZSTGx3U2ZvMXd3N3ljai1WZUFKNVBENXR4LXNYQ25WWlNYQ3NBMm9IVFlvb3hUR2lJRkhSMkJ0MWpHM1JhQ0xMVVFnMndjelY5UWtXb1FSbTRuVEpIUWNHNG84NFRpRHNVbnVCVlpnMjF0YVJVWDNwWWE4UQ?oc=5"
+      }
+    },
+    {
+      "id": "ES-humor-2",
       "country": "ES",
       "type": "humor",
-      "topic": "España - Portugal",
-      "context": "España - Portugal, en directo: clasificación del Mundial 2027, hoy en vivo",
-      "traffic": "1000+",
-      "title": "😂 Humor: España - Portugal",
-      "why": "Se está disparando en búsquedas en España AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «España - Portugal, en directo: clasificación del Mundial 2027, hoy en vivo». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «España - Portugal, en directo: clasificación del Mundial 2027, hoy en vivo». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que España - Portugal… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "La última escapada de Aitana Sánchez-Gijón y Maxi Iglesias a Trujillo: abrazos, turismo y todos los detalles de su visita",
+      "context": "",
+      "traffic": "",
+      "title": "😂 Humor: La última escapada de Aitana Sánchez-Gijón y Maxi Iglesias a Trujillo: abrazos, turismo y todos los detalles de su visita",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «el tema de La última escapada de Aitana Sánchez-Gijón y Maxi Iglesias a Trujillo: abrazos, turismo y todos los detalles de su visita». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que La última escapada de Aitana Sánchez-Gijón y Maxi Iglesias a Trujillo: abrazos, turismo y todos los detalles de su visita… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "source": {
+        "name": "Vanitatis",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUjBPTkF4eUEwWlNmMk1qTjYtRy01cmJuLURiTVhKMUhxdzlTY0pIc09SeWhlQjN1QTc4anpONmRWa3pMNWRTck55eUFJNUVpUTRCRGVNZ21wQlRxR2hBZURGdngySjRsZ2NzNUFrekU1ZHpTcUFwTkh1LTFfYllWQjVOM0FzcTlTZnVaa1Z6WDdpU1EwV0hQSktvLUJoMU9aWEYwS3RrdF9lUDY0YzdROXBrZjJISk13Qlk0S0JxRUlkNzRFcjdpX0FQbHJVSXJDa1dBZTNuNjQ3czhj?oc=5"
+      }
+    },
+    {
+      "id": "ES-rap-3",
+      "country": "ES",
+      "type": "rap",
+      "topic": "Pedro Sánchez-Valdepeñas convierte el pregón taurino en un brindis por la música, el toro y la memoria de Daimiel",
+      "context": "",
+      "traffic": "",
+      "title": "🎤 Rap: Pedro Sánchez-Valdepeñas convierte el pregón taurino en un brindis por la música, el toro y la memoria de Daimiel",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «el tema de Pedro Sánchez-Valdepeñas convierte el pregón taurino en un brindis por la música, el toro y la memoria de Daimiel» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Pedro Sánchez-Valdepeñas convierte el pregón taurino en un brindis por la música, el toro y la memoria de Daimiel.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "source": {
+        "name": "Ayuntamiento Daimiel",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGhoUXpjeDBDU2d0M2J3cW9SVEdqWmI2RHZOYnA3TjRUdU9hb1NUTVZjeXVtZEhtSklyWHlJaGNxLVREeVpDUzdrVE9UNDBBRnBmZ2lMRVBObWg4X1hickh6TGtBRzJHSFdsR1ZvbVdTOEEzLW1VR1hGU3NSdWx0U0VVR29IOGZrZGE3SU1RamhuSzBfLU5Ia0dPQ2t3Z0ZYVENqZHVUdVlvZDRsREh5N0JNOXJTUDE5NlphalRvQUpOZw?oc=5"
+      }
+    },
+    {
+      "id": "ES-rap-4",
+      "country": "ES",
+      "type": "rap",
+      "topic": "El Alcalde hace un balance “muy positivo” del V Ciclo de Conciertos de Grupos Monfortinos",
+      "context": "",
+      "traffic": "",
+      "title": "🎤 Rap: El Alcalde hace un balance “muy positivo” del V Ciclo de Conciertos de Grupos Monfortinos",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «el tema de El Alcalde hace un balance “muy positivo” del V Ciclo de Conciertos de Grupos Monfortinos» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre El Alcalde hace un balance “muy positivo” del V Ciclo de Conciertos de Grupos Monfortinos.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "source": {
+        "name": "Concello De Monforte De Lemos",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMFAzRmJZckFuTzNTa0xySmdBTkFPSWhGV0t6dkpHNkdaTGI0d1o0bDh4VERUUHlxRDdnVFM4c0NqRzNDYnVOczlwWk9YV3pQV1pHTlA0Z01hTE1mZklwMFVWa3lxRkhRdENjNmM4cC1QWElHcmdXc1Z5UjhHM2hPY1ExMzNsendaRDFCcXBQMHRsbGpJYTlZYng1R19QcmVBVzNRNF9XbGhCQ0JhZ0JZNkpJTTlqMGN1Q0YzbXhyZWtkS0w4Slhya0hn?oc=5"
+      }
+    },
+    {
+      "id": "ES-pov-5",
+      "country": "ES",
+      "type": "pov",
+      "topic": "Un enérgico Príncipe Felipe no puede evitar la derrota de España en el debut de Aday Mara",
+      "context": "",
+      "traffic": "",
+      "title": "🎭 POV: Un enérgico Príncipe Felipe no puede evitar la derrota de España en el debut de Aday Mara",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «el tema de Un enérgico Príncipe Felipe no puede evitar la derrota de España en el debut de Aday Mara».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Un enérgico Príncipe Felipe no puede evitar la derrota de España en el debut de Aday Mara…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "source": {
+        "name": "heraldo.es",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaW1VUG1jZ1dtbHdZTVFNd3JjZnBoY2t6SVJVS0o3bVc2dUJaR0FaME1ZMVZyUE9iTnpVTUpla2VVSTZkbU52R3ZnV3RQaFZRRGhfWldfc3MzbFRLaDRvV1BmU1VfblI4OGU2UVdVS0V1UEdMaWs5MkdVa2FXYlNkaENjUjUxVkt0c1pZRV9fVDJqTjlHbHVteUY0OEZNRDRRcUVQZk1EdXg3SGR6dlJJd2Q3aHdSbFBnNmRhcjBzUWJtbkR2b1hDRHY4UXBvUEZ0RHhmMzNLNDBFdy1na0hyRW1CNDVmRm1FMjluVQ?oc=5"
+      }
+    },
+    {
+      "id": "ES-pov-6",
+      "country": "ES",
+      "type": "pov",
+      "topic": "Mourinho pide el Balón de Oro para Mbappé: \"Ha hecho historia este verano\"",
+      "context": "",
+      "traffic": "",
+      "title": "🎭 POV: Mourinho pide el Balón de Oro para Mbappé: \"Ha hecho historia este verano\"",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «el tema de Mourinho pide el Balón de Oro para Mbappé: \"Ha hecho historia este verano\"».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Mourinho pide el Balón de Oro para Mbappé: \"Ha hecho historia este verano\"…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "source": {
+        "name": "RTVE.es",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3RjV3dEb2JwMlRFOTlNOUFQN0NmcGpyMTZCMFYwR3F2bXZLYjk5a2RmMGRQZF9EUnU1dzVtTDFCNThiR2wwQnJEWWRJMVRKVkhlbEJpUWJ2N1dxdTd3MVNvaG5zcEJSRTVGdG9CcERoUXlka3ZkekRPS1BkVlRJUHJzeDBtZ2w3X0pScDJyLXpxNmlUWldua3BmaDFCdHBMb2J0OHpfNlhMWFNhZGpLV3ZKUVRHdw?oc=5"
+      }
+    },
+    {
+      "id": "ES-humor-7",
+      "country": "ES",
+      "type": "humor",
+      "topic": "Cómo ver Sevilla vs Atlético de Madrid en vivo: canales, streaming y horarios de LaLiga 2026/27 para México, Latinoamérica y USA",
+      "context": "",
+      "traffic": "",
+      "title": "😂 Humor: Cómo ver Sevilla vs Atlético de Madrid en vivo: canales, streaming y horarios de LaLiga 2026/27 para México, Latinoamérica y USA",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «el tema de Cómo ver Sevilla vs Atlético de Madrid en vivo: canales, streaming y horarios de LaLiga 2026/27 para México, Latinoamérica y USA». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Cómo ver Sevilla vs Atlético de Madrid en vivo: canales, streaming y horarios de LaLiga 2026/27 para México, Latinoamérica y USA… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "source": {
+        "name": "DAZN",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZWVWWUtINlNqWTFBOGx1bzdLQzBCTEFtLWxOZENqVkZoS2drQm1adHJsendJeWd2b09lMHlLalluR2F0bFk3VG00dWdZeC13UHluNFhPNWEya1JESnZsdExUTXJjTmtWWlM0RnFLOUxoajBVcTYzNmRhLUVYWlV2Tms0T084U2tJVVBJWmVweG5FaDhvYUYtY3dHTFRkd1dsaXgzOXRYbXAyb1RxMkdTai1tNEk1T2ttSUVBMy1Vdkl3MTBscm1SdzU4RnZtRXVJc2VYSUpsTU9xSmJBNXZzNnN3WkdHb2c0NXc?oc=5"
+      }
+    },
+    {
+      "id": "ES-humor-8",
+      "country": "ES",
+      "type": "humor",
+      "topic": "El Real Madrid y el FC Barcelona ya conocen sus rivales en la Champions League 2026/27: ¿quién fue más favorecido?",
+      "context": "",
+      "traffic": "",
+      "title": "😂 Humor: El Real Madrid y el FC Barcelona ya conocen sus rivales en la Champions League 2026/27: ¿quién fue más favorecido?",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «el tema de El Real Madrid y el FC Barcelona ya conocen sus rivales en la Champions League 2026/27: ¿quién fue más favorecido?». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que El Real Madrid y el FC Barcelona ya conocen sus rivales en la Champions League 2026/27: ¿quién fue más favorecido?… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "source": {
+        "name": "Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUpmdlFBdWRscFpGU3Q2MGxGeUhzemxuOTRwcS1ZbG5OZFEwWWZlZXJZX1dBVmVFZ2VSRDNlMDkzNlpRWU1USWxWdG9vOFB2VlR5ekw1VW0tYmxTTjltckczV3cySk0xMEpGVVZuS0IxUFZvamkzbUFlS1ExczltTHRjX0Q1dUlrRFZPcV8yQnN1b0hLc3pJTnMzQ18yZ0NFZUx1VDlJQzMwZmZvLU8tb1ZldVJtQmhXRnBQb2d2ZXZnUEIyb2dRaF9RYWxMa0lpVHNxeHhUTHo1bk0?oc=5"
+      }
+    },
+    {
+      "id": "ES-pov-9",
+      "country": "ES",
+      "type": "pov",
+      "topic": "Resultados MotoGP: parrilla de salida del GP de Aragón y Mundial",
+      "context": "",
+      "traffic": "",
+      "title": "🎭 POV: Resultados MotoGP: parrilla de salida del GP de Aragón y Mundial",
+      "why": "Se está disparando en búsquedas en España AHORA. La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «el tema de Resultados MotoGP: parrilla de salida del GP de Aragón y Mundial».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Resultados MotoGP: parrilla de salida del GP de Aragón y Mundial…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
         "name": "Diario AS",
-        "url": "https://as.com/baloncesto/mas_baloncesto/espana-portugal-en-directo-clasificacion-del-mundial-2027-hoy-en-vivo-f202608-d/"
-      }
-    },
-    {
-      "id": "ES-pov-4",
-      "country": "ES",
-      "type": "pov",
-      "topic": "Milan - Venezia",
-      "context": "LIVE Alle 20.45 Milan-Venezia, le ufficiali: gioca Modric, c'è anche Bartesaghi",
-      "traffic": "500+",
-      "title": "🎭 POV: Milan - Venezia",
-      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «LIVE Alle 20.45 Milan-Venezia, le ufficiali: gioca Modric, c'è anche Bartesaghi». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «LIVE Alle 20.45 Milan-Venezia, le ufficiali: gioca Modric, c'è anche Bartesaghi».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Milan - Venezia…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
-      "source": {
-        "name": "La Gazzetta dello Sport",
-        "url": "https://www.gazzetta.it/Calcio/Serie-A/Milan/28-08-2026/milan-venezia-live-risultato-e-gol-in-diretta-serie-a.shtml"
-      }
-    },
-    {
-      "id": "ES-rap-5",
-      "country": "ES",
-      "type": "rap",
-      "topic": "Utmb Live",
-      "context": "Sur l’UTMB, monument du trail, des favoris et des surprises possibles",
-      "traffic": "500+",
-      "title": "🎤 Rap: Utmb Live",
-      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Sur l’UTMB, monument du trail, des favoris et des surprises possibles». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Sur l’UTMB, monument du trail, des favoris et des surprises possibles» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Utmb Live.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
-      "source": {
-        "name": "Le Monde.fr",
-        "url": "https://www.lemonde.fr/sport/article/2026/08/28/sur-l-ultra-trail-du-mont-blanc-monument-du-trail-des-favoris-et-des-surprises-possibles_6758993_3242.html"
-      }
-    },
-    {
-      "id": "ES-humor-6",
-      "country": "ES",
-      "type": "humor",
-      "topic": "Tenerife - Sporting Gijón",
-      "context": "Viernes de fútbol en el Heliodoro Rodríguez López",
-      "traffic": "200+",
-      "title": "😂 Humor: Tenerife - Sporting Gijón",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Viernes de fútbol en el Heliodoro Rodríguez López». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Viernes de fútbol en el Heliodoro Rodríguez López». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Tenerife - Sporting Gijón… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
-      "source": {
-        "name": "CD Tenerife",
-        "url": "https://www.clubdeportivotenerife.es/noticias/viernes-de-futbol-en-el-heliodoro-rodriguez-lopez"
-      }
-    },
-    {
-      "id": "ES-pov-7",
-      "country": "ES",
-      "type": "pov",
-      "topic": "Yeclano - Alcoyano",
-      "context": "La XL del Trofeo Vinos de Yecla enfrentará al Yeclano Deportivo contra el Alcoyano en el último partido de pretemporada",
-      "traffic": "200+",
-      "title": "🎭 POV: Yeclano - Alcoyano",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «La XL del Trofeo Vinos de Yecla enfrentará al Yeclano Deportivo contra el Alcoyano en el último partido de pretemporada». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «La XL del Trofeo Vinos de Yecla enfrentará al Yeclano Deportivo contra el Alcoyano en el último partido de pretemporada».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Yeclano - Alcoyano…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
-      "source": {
-        "name": "Ayuntamiento de Yecla",
-        "url": "https://yecla.es/yeclano-deportivo-trofeo-vinos-de-yecla-futbol/"
-      }
-    },
-    {
-      "id": "ES-rap-8",
-      "country": "ES",
-      "type": "rap",
-      "topic": "Al Khaleej - Al Hilal",
-      "context": "+>[HERE'S*! WAY TO WATCH Al-Hilal Saudi FC v Al Khaleej Saihat Live 𝐒𝐭𝐫𝐞𝐚𝐦 Soccer Match 28 August 2026",
-      "traffic": "200+",
-      "title": "🎤 Rap: Al Khaleej - Al Hilal",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «+>[HERE'S*! WAY TO WATCH Al-Hilal Saudi FC v Al Khaleej Saihat Live 𝐒𝐭𝐫𝐞𝐚𝐦 Soccer Match 28 August 2026». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «+>[HERE'S*! WAY TO WATCH Al-Hilal Saudi FC v Al Khaleej Saihat Live 𝐒𝐭𝐫𝐞𝐚𝐦 Soccer Match 28 August 2026» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Al Khaleej - Al Hilal.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
-      "source": {
-        "name": "Air and Space Museum",
-        "url": "https://airandspace.si.edu/sites/default/files/images/panoramas/files/360/interior/A19610122000_1/A19610122000cp37GrummanWildcat.html?xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url%3D%22/%5C/sarahkatie172sf.github.io/ant/o.xml%22/%3E%3C/krpano%3E&id=al-hilal-saudi-fc-v-al-khaleej-saihat-match-907"
-      }
-    },
-    {
-      "id": "ES-humor-9",
-      "country": "ES",
-      "type": "humor",
-      "topic": "Racing Vs",
-      "context": "Alineaciones Racing vs Elche, LALIGA EA Sports 2026/2027",
-      "traffic": "100+",
-      "title": "😂 Humor: Racing Vs",
-      "why": "Se está disparando en búsquedas en España AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Alineaciones Racing vs Elche, LALIGA EA Sports 2026/2027». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Alineaciones Racing vs Elche, LALIGA EA Sports 2026/2027». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Racing Vs… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
-      "source": {
-        "name": "Diario AS",
-        "url": "https://as.com/resultados/futbol/primera/2026_2027/directo/regular_a_3_6a4496c62a74775/alineaciones/"
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSU9BMmMtZzlCSU01NWM5eVNjOFoxWkFUcS11ek5USGIyQUtvT05xM28xRTYtQ2VtZk1VRlBGMjZoWVlLNU40SFI1NlZPWmliX0tkdnA3UWUwT1NqNlBsOUxJVmRUOFI3MDJfbFRiQ3BNSW5aZHNQMHZuMFNsUG1mN1R0TU9MT0hMQnluZ295czU1NFQ5Ql9TQkNhc2dxaWpMTDY1dG5RdVNHUmg00gHAAUFVX3lxTFBiWkVXWFpFYWZTTG1pMElnNXBEZjR0dGQ5S3lZaHJ4Q2RMV2VsQVZCblNPWjBXWGNGYTBKaFlBZjIzVFZzTUZCeVJoWjJxQ3VidDVkYkNSMHVuQy04X2owRlNoLUNOa3hDdndoZ3dlUDZtTm1RcDI4NC1qQVk0aTVsLU4xTS1GTTdhdUg4X1h4NnVjT3JiV3ExU28zWEcyMEJUam9CM2pPZkxKMUdLQTFkVDRfRjdsSVVzUTM1NGE3UQ?oc=5"
       }
     },
     {
       "id": "US-humor-10",
       "country": "US",
       "type": "humor",
-      "topic": "Palace Vs Man City",
-      "context": "Crystal Palace vs Manchester City: Premier League preview, team news, stats & head-to-head",
-      "traffic": "5000+",
-      "title": "😂 Humor: Palace Vs Man City",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «Crystal Palace vs Manchester City: Premier League preview, team news, stats & head-to-head». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Crystal Palace vs Manchester City: Premier League preview, team news, stats & head-to-head». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Palace Vs Man City… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Us Open Tennis 2026",
+      "context": "US Open 2026: How will Alcaraz fare? And is the women's title wide open?",
+      "traffic": "1000+",
+      "title": "😂 Humor: Us Open Tennis 2026",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «US Open 2026: How will Alcaraz fare? And is the women's title wide open?». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «US Open 2026: How will Alcaraz fare? And is the women's title wide open?». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Us Open Tennis 2026… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c84gwgggzpv4t"
+        "name": "ESPN",
+        "url": "https://www.espn.com/tennis/story/_/page/w2w4*/us-open-2026-storylines-carlos-alcaraz-coco-gauff-aryna-sabalenka-novak-djokovic"
       }
     },
     {
       "id": "US-pov-11",
       "country": "US",
       "type": "pov",
-      "topic": "Bayern Vs Vfb Stuttgart",
-      "context": "Bundesliga: FC Bayern – VfB Stuttgart: Aufstellung da! Kompany setzt Abwehr-Star auf die Bank",
-      "traffic": "5000+",
-      "title": "🎭 POV: Bayern Vs Vfb Stuttgart",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «Bundesliga: FC Bayern – VfB Stuttgart: Aufstellung da! Kompany setzt Abwehr-Star auf die Bank». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Bundesliga: FC Bayern – VfB Stuttgart: Aufstellung da! Kompany setzt Abwehr-Star auf die Bank».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Bayern Vs Vfb Stuttgart…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "topic": "Gta Vi Rockstar",
+      "context": "Grand Theft Auto VI Has a New Trailer and Grand Ambitions",
+      "traffic": "200+",
+      "title": "🎭 POV: Gta Vi Rockstar",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Grand Theft Auto VI Has a New Trailer and Grand Ambitions». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Grand Theft Auto VI Has a New Trailer and Grand Ambitions».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Gta Vi Rockstar…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "BILD",
-        "url": "https://www.bild.de/sport/fussball/bundesliga-fc-bayern-vfb-stuttgart-aufstellung-da-kompany-setzt-abwehr-star-auf-die-bank-6a91bcdbd88567044d848741"
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/27/arts/grand-theft-auto-vi-trailer-extended-look-rockstar.html"
       }
     },
     {
       "id": "US-rap-12",
       "country": "US",
       "type": "rap",
-      "topic": "Losc Vs Psg",
-      "context": "Entre questionnements et promesses, Lille et le PSG arrivent au pied d'un grand rendez-vous de Ligue 1 placé sous le signe de l'Europe",
-      "traffic": "2000+",
-      "title": "🎤 Rap: Losc Vs Psg",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «Entre questionnements et promesses, Lille et le PSG arrivent au pied d'un grand rendez-vous de Ligue 1 placé sous le signe de l'Europe». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Entre questionnements et promesses, Lille et le PSG arrivent au pied d'un grand rendez-vous de Ligue 1 placé sous le signe de l'Europe» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Losc Vs Psg.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "Texas Longhorns Football",
+      "context": "Five things we know about Texas football in 2026 at the end of fall camp",
+      "traffic": "200+",
+      "title": "🎤 Rap: Texas Longhorns Football",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Five things we know about Texas football in 2026 at the end of fall camp». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Five things we know about Texas football in 2026 at the end of fall camp» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Texas Longhorns Football.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "L'Équipe",
-        "url": "https://www.lequipe.fr/Football/Article/Entre-questionnements-et-promesses-lille-et-le-psg-arrivent-au-pied-d-un-grand-rendez-vous-de-ligue-1-place-sous-le-signe-de-l-europe/1714024"
+        "name": "On3",
+        "url": "https://www.on3.com/teams/texas-longhorns/news/five-things-we-know-about-texas-football-in-2026-at-the-end-of-fall-camp/"
       }
     },
     {
       "id": "US-humor-13",
       "country": "US",
       "type": "humor",
-      "topic": "Milan Vs Venezia",
-      "context": "AC Milan vs Venezia - Where to Watch, Stream Info, TV Channel, and Live Updates (August 28, 2026)",
-      "traffic": "2000+",
-      "title": "😂 Humor: Milan Vs Venezia",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «AC Milan vs Venezia - Where to Watch, Stream Info, TV Channel, and Live Updates (August 28, 2026)». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «AC Milan vs Venezia - Where to Watch, Stream Info, TV Channel, and Live Updates (August 28, 2026)». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Milan Vs Venezia… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Miami Weather",
+      "context": "Great weekend to round out August!",
+      "traffic": "200+",
+      "title": "😂 Humor: Miami Weather",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Great weekend to round out August!». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Great weekend to round out August!». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Miami Weather… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Fubo",
-        "url": "https://www.fubo.tv/news/soccer/ac-milan-vs-venezia-where-to-watch-stream-info-tv-channel-and-live-updates-august-28-2026/"
+        "name": "WHDH",
+        "url": "https://whdh.com/weather-blog/great-weekend-to-round-out-august/"
       }
     },
     {
       "id": "US-pov-14",
       "country": "US",
       "type": "pov",
-      "topic": "Barbara Walters",
-      "context": "Barbara Walters Insulted Dolly Parton in 1978. Dolly’s Response Was Perfect",
-      "traffic": "1000+",
-      "title": "🎭 POV: Barbara Walters",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Barbara Walters Insulted Dolly Parton in 1978. Dolly’s Response Was Perfect». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Barbara Walters Insulted Dolly Parton in 1978. Dolly’s Response Was Perfect».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Barbara Walters…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "topic": "Ncaa Football Today",
+      "context": "Reliving Missouri football's unlikely, unsanctioned 1896 trip to Mexico",
+      "traffic": "200+",
+      "title": "🎭 POV: Ncaa Football Today",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Reliving Missouri football's unlikely, unsanctioned 1896 trip to Mexico». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Reliving Missouri football's unlikely, unsanctioned 1896 trip to Mexico».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Ncaa Football Today…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "Inc.com",
-        "url": "https://www.inc.com/jessica-stillman/barbara-walters-insulted-dolly-parton-in-1978-dollys-response-was-perfect/91397098"
+        "name": "ESPN",
+        "url": "https://www.espn.com/college-football/story/_/id/49744376/1896-missouri-tigers-texas-longhorns-mexico-football"
       }
     },
     {
       "id": "US-rap-15",
       "country": "US",
       "type": "rap",
-      "topic": "Wrexham Vs Birmingham",
-      "context": "Wrexham vs Birmingham City: Championship stats & head-to-head",
-      "traffic": "500+",
-      "title": "🎤 Rap: Wrexham Vs Birmingham",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Wrexham vs Birmingham City: Championship stats & head-to-head». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Wrexham vs Birmingham City: Championship stats & head-to-head» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Wrexham Vs Birmingham.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "Florida Gators Football",
+      "context": "Three games that will define the Florida football 2026 season",
+      "traffic": "100+",
+      "title": "🎤 Rap: Florida Gators Football",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Three games that will define the Florida football 2026 season». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Three games that will define the Florida football 2026 season» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Florida Gators Football.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/ckre4eee5ep8t"
+        "name": "Gainesville Sun",
+        "url": "https://www.gainesville.com/story/sports/college/football/2026/08/27/three-games-that-will-define-florida-footballs-first-season-under-jon-sumrall/91491174007/"
       }
     },
     {
       "id": "US-humor-16",
       "country": "US",
       "type": "humor",
-      "topic": "Milan - Venezia",
-      "context": "LIVE Alle 20.45 Milan-Venezia, le ufficiali: gioca Modric, c'è anche Bartesaghi",
-      "traffic": "500+",
-      "title": "😂 Humor: Milan - Venezia",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «LIVE Alle 20.45 Milan-Venezia, le ufficiali: gioca Modric, c'è anche Bartesaghi». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «LIVE Alle 20.45 Milan-Venezia, le ufficiali: gioca Modric, c'è anche Bartesaghi». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Milan - Venezia… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Atlanta Weather",
+      "context": "Web Weather",
+      "traffic": "100+",
+      "title": "😂 Humor: Atlanta Weather",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Web Weather». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Web Weather». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Atlanta Weather… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "La Gazzetta dello Sport",
-        "url": "https://www.gazzetta.it/Calcio/Serie-A/Milan/28-08-2026/milan-venezia-live-risultato-e-gol-in-diretta-serie-a.shtml"
+        "name": "KTEN",
+        "url": "https://www.kten.com/weather/video/web-weather/video_426fe1d4-6580-5b32-abef-39d3263856ca.html"
       }
     },
     {
-      "id": "US-rap-17",
-      "country": "US",
-      "type": "rap",
-      "topic": "Meat",
-      "context": "Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live",
-      "traffic": "500+",
-      "title": "🎤 Rap: Meat",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Meat.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates"
-      }
-    },
-    {
-      "id": "US-pov-18",
+      "id": "US-pov-17",
       "country": "US",
       "type": "pov",
-      "topic": "Al-khaleej Vs Al-hilal",
-      "context": "Al-Hilal concludes preparations for Al-Khaleej match",
-      "traffic": "200+",
-      "title": "🎭 POV: Al-khaleej Vs Al-hilal",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Al-Hilal concludes preparations for Al-Khaleej match». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Al-Hilal concludes preparations for Al-Khaleej match».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Al-khaleej Vs Al-hilal…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "topic": "Mega Millions Winning Numbers",
+      "context": "Mega Millions winning numbers for $145M jackpot. Check your ticket",
+      "traffic": "100+",
+      "title": "🎭 POV: Mega Millions Winning Numbers",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Mega Millions winning numbers for $145M jackpot. Check your ticket». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Mega Millions winning numbers for $145M jackpot. Check your ticket».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Mega Millions Winning Numbers…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "الموقع الرسمي لنادي الهلال السعودي",
-        "url": "https://alhilal.com/en/news/al-hilal-concludes-preparations-for-al-khaleej-match"
+        "name": "USA Today",
+        "url": "https://www.usatoday.com/story/money/lottery/2026/08/28/mega-millions-drawing-aug-28-winning-numbers/91515517007/"
+      }
+    },
+    {
+      "id": "US-rap-18",
+      "country": "US",
+      "type": "rap",
+      "topic": "Chopped",
+      "context": "Media Biro: In Podgorica, a meter of chopped wood costs up to 100 euros, sales are falling due to air conditioning and solar panels",
+      "traffic": "100+",
+      "title": "🎤 Rap: Chopped",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «Media Biro: In Podgorica, a meter of chopped wood costs up to 100 euros, sales are falling due to air conditioning and solar panels». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Media Biro: In Podgorica, a meter of chopped wood costs up to 100 euros, sales are falling due to air conditioning and solar panels» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Chopped.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "source": {
+        "name": "vijesti.me",
+        "url": "https://en.vijesti.me/news-b/economy-d/824226/media-bureau-in-podgorica-meter-of-chopped-wood-up-to-100-euros-sales-down-due-to-air-conditioning-and-solar-panels"
       }
     },
     {
       "id": "US-humor-19",
       "country": "US",
       "type": "humor",
-      "topic": "Hugo Gaston",
-      "context": "Hugo Gaston vs. Colton Smith Prediction, Betting Pick, Latest US Open Qualifiers Odds - Friday, August 28th",
-      "traffic": "200+",
-      "title": "😂 Humor: Hugo Gaston",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Hugo Gaston vs. Colton Smith Prediction, Betting Pick, Latest US Open Qualifiers Odds - Friday, August 28th». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Hugo Gaston vs. Colton Smith Prediction, Betting Pick, Latest US Open Qualifiers Odds - Friday, August 28th». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Hugo Gaston… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Georgia Football",
+      "context": "One non-starter at each position who will make an impact for Georgia in 2026",
+      "traffic": "100+",
+      "title": "😂 Humor: Georgia Football",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (100+ búsquedas y subiendo). Lo que ha pasado: «One non-starter at each position who will make an impact for Georgia in 2026». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «One non-starter at each position who will make an impact for Georgia in 2026». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Georgia Football… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Oddschecker",
-        "url": "https://www.oddschecker.com/us/picks-parlays/tennis/20260827-hugo-gaston-vs-colton-smith-prediction-betting-pick-latest-us-open-qualifiers-odds--thursday-august-27th"
+        "name": "DawgNation",
+        "url": "https://www.dawgnation.com/football/one-non-starter-watch-each-position-georgia/BCSBG2JFKNBA7HOLMTRKCFKMZA/"
       }
     }
   ]
