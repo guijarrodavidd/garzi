@@ -1,309 +1,309 @@
 // Generado automáticamente cada día. No editar a mano.
 window.GARZI_DATA = {
-  "updatedAt": "2026-10-12T14:58:37.601Z",
+  "updatedAt": "2026-10-13T13:54:52.104Z",
   "countries": {
     "ES": "España",
     "US": "Estados Unidos"
   },
   "ideas": [
     {
-      "id": "ES-pov-0",
+      "id": "ES-humor-0",
       "country": "ES",
-      "type": "pov",
-      "topic": "Málaga",
-      "context": "Muere una menor de 17 años en un accidente con un patinete eléctrico en Málaga",
-      "traffic": "10000+",
-      "title": "🕊️ Homenaje: Málaga",
-      "why": "Tema muy sensible que está estallando en España (10000+ búsquedas y subiendo). Lo que ha pasado: «Muere una menor de 17 años en un accidente con un patinete eléctrico en Málaga». Aquí el humor NO funciona y puede quemarte: tira de homenaje o de un POV emotivo y respetuoso. La gente comparte lo que emociona, no solo lo que hace gracia.",
-      "script": "🕊️ TONO: respeto total. Nada de chistes.\n🎬 GANCHO (0-3s): a cámara, serio — «Tenemos que hablar de Málaga.»\n💬 DESARROLLO: qué ha pasado y por qué importaba a la gente. Una anécdota o recuerdo.\n🤍 REMATE: mensaje bonito o reflexión. Texto en pantalla: «DEP».\n📌 CTA: «Déjale un mensaje en comentarios».",
+      "type": "humor",
+      "topic": "Apple",
+      "context": "Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home",
+      "traffic": "1000+",
+      "title": "😂 Humor: Apple",
+      "why": "Se está disparando en búsquedas en España AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Meet Apple HomeView, a new way to enjoy entertainment, stay connected, and manage the home». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Apple… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Diario Sur",
-        "url": "https://www.diariosur.es/sucesos/muere-menor-anos-accidente-patinete-electrico-malaga-20261008215321-nt.html"
+        "name": "Apple",
+        "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
       }
     },
     {
-      "id": "ES-humor-1",
+      "id": "ES-pov-1",
       "country": "ES",
-      "type": "humor",
-      "topic": "Ley De Nietos",
-      "context": "El Supremo mantiene la suspensión del voto para la 'ley de nietos': \"El riesgo de que se constituya irregularmente un censo de electores sigue persistiendo\"",
-      "traffic": "5000+",
-      "title": "😂 Humor: Ley De Nietos",
-      "why": "Se está disparando en búsquedas en España AHORA (5000+ búsquedas y subiendo). Lo que ha pasado: «El Supremo mantiene la suspensión del voto para la 'ley de nietos': \"El riesgo de que se constituya irregularmente un censo de electores sigue persistiendo\"». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «El Supremo mantiene la suspensión del voto para la 'ley de nietos': \"El riesgo de que se constituya irregularmente un censo de electores sigue persistiendo\"». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Ley De Nietos… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "type": "pov",
+      "topic": "Alejandro Davidovich Fokina",
+      "context": "Hubert Hurkacz-Alejandro Davidovich en directo online: ¿Cuándo y dónde ver el partido? - ATP Shanghái 2026 - Octavos - Resultado en vivo – Hoy",
+      "traffic": "1000+",
+      "title": "🎭 POV: Alejandro Davidovich Fokina",
+      "why": "Se está disparando en búsquedas en España AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Hubert Hurkacz-Alejandro Davidovich en directo online: ¿Cuándo y dónde ver el partido? - ATP Shanghái 2026 - Octavos - Resultado en vivo – Hoy». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Hubert Hurkacz-Alejandro Davidovich en directo online: ¿Cuándo y dónde ver el partido? - ATP Shanghái 2026 - Octavos - Resultado en vivo – Hoy».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Alejandro Davidovich Fokina…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "El Mundo",
-        "url": "https://www.elmundo.es/espana/2026/10/12/6acce4bb21efa004368b4596.html"
+        "name": "Eurosport",
+        "url": "https://www.eurosport.es/tenis/atp-shangai/2026/live-hubert-hurkacz-alejandro-davidovich_mtc22031187/live-commentary.shtml"
       }
     },
     {
       "id": "ES-rap-2",
       "country": "ES",
       "type": "rap",
-      "topic": "Levante Unión Deportiva",
-      "context": "LA PREVIA DEL LEVANTE UD VS SEVILLA FC DE LALIGA 26/27",
-      "traffic": "1000+",
-      "title": "🎤 Rap: Levante Unión Deportiva",
-      "why": "Se está disparando en búsquedas en España AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «LA PREVIA DEL LEVANTE UD VS SEVILLA FC DE LALIGA 26/27». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «LA PREVIA DEL LEVANTE UD VS SEVILLA FC DE LALIGA 26/27» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Levante Unión Deportiva.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "Hubert Hurkacz",
+      "context": "Hubert Hurkacz - Alejandro Davidovich Fokina [RELACJA NA ŻYWO]",
+      "traffic": "500+",
+      "title": "🎤 Rap: Hubert Hurkacz",
+      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Hubert Hurkacz - Alejandro Davidovich Fokina [RELACJA NA ŻYWO]». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Hubert Hurkacz - Alejandro Davidovich Fokina [RELACJA NA ŻYWO]» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Hubert Hurkacz.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Sevilla FC",
-        "url": "https://sevillafc.es/actualidad/noticias/previa-levante-sevilla-laliga-2026-2027"
+        "name": "Przegląd Sportowy",
+        "url": "https://przegladsportowy.onet.pl/tenis/hubert-hurkacz-alejandro-davidovich-fokina-relacja-na-zywo/cnpv3bg"
       }
     },
     {
       "id": "ES-humor-3",
       "country": "ES",
       "type": "humor",
-      "topic": "Toros Hoy",
-      "context": "Corrida de la Hispanidad: Morante de la Puebla, Héctor Gutiérrez y Aarón Palacio",
-      "traffic": "1000+",
-      "title": "😂 Humor: Toros Hoy",
-      "why": "Se está disparando en búsquedas en España AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Corrida de la Hispanidad: Morante de la Puebla, Héctor Gutiérrez y Aarón Palacio». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Corrida de la Hispanidad: Morante de la Puebla, Héctor Gutiérrez y Aarón Palacio». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Toros Hoy… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Greta Thunberg",
+      "context": "\"Nos están robando el futuro\": Greta Thunberg se une a las protestas estudiantiles en París",
+      "traffic": "200+",
+      "title": "😂 Humor: Greta Thunberg",
+      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «\"Nos están robando el futuro\": Greta Thunberg se une a las protestas estudiantiles en París». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «\"Nos están robando el futuro\": Greta Thunberg se une a las protestas estudiantiles en París». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Greta Thunberg… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Telemadrid",
-        "url": "https://www.telemadrid.es/programas/toros-en-telemadrid/Corrida-de-la-Hispanidad-Morante-de-la-Puebla-Hector-Gutierrez-y-Aaron-Palacio-0-2934006573--20261012010830.html"
+        "name": "El Mundo",
+        "url": "https://www.elmundo.es/internacional/2026/10/13/6acde648e4d4d8ed498b456e.html"
       }
     },
     {
       "id": "ES-pov-4",
       "country": "ES",
       "type": "pov",
-      "topic": "Acampada Sol",
-      "context": "El nuevo mapa de la Puerta del Sol: así son las calles inventadas por los acampados de la vivienda",
-      "traffic": "500+",
-      "title": "🎭 POV: Acampada Sol",
-      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «El nuevo mapa de la Puerta del Sol: así son las calles inventadas por los acampados de la vivienda». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «El nuevo mapa de la Puerta del Sol: así son las calles inventadas por los acampados de la vivienda».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Acampada Sol…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "topic": "Eugenia Martínez De Irujo",
+      "context": "De Teresa Urquijo, mujer de José Luis Martínez-Almeida, a Eugenia Martínez de Irujo: los looks más destacados de la recepción en el Palacio Real por el 12 de octubre",
+      "traffic": "200+",
+      "title": "🎭 POV: Eugenia Martínez De Irujo",
+      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «De Teresa Urquijo, mujer de José Luis Martínez-Almeida, a Eugenia Martínez de Irujo: los looks más destacados de la recepción en el Palacio Real por el 12 de octubre». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «De Teresa Urquijo, mujer de José Luis Martínez-Almeida, a Eugenia Martínez de Irujo: los looks más destacados de la recepción en el Palacio Real por el 12 de octubre».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Eugenia Martínez De Irujo…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "Libertad Digital",
-        "url": "https://www.libertaddigital.com/madrid/2026-09-29/las-calles-inventadas-por-los-acampados-7467403/"
+        "name": "Vanitatis",
+        "url": "https://www.vanitatis.elconfidencial.com/estilo/moda/2026-10-12/teresa-urquijo-mujer-almeida-looks-invitadas-palacio-real-12-octubre_4443261/"
       }
     },
     {
-      "id": "ES-rap-5",
-      "country": "ES",
-      "type": "rap",
-      "topic": "Nuevo Terremoto En Granada",
-      "context": "ÚLTIMA HORA | Registrado un nuevo terremoto en Granada con epicentro en Maracena este 11 de octubre",
-      "traffic": "500+",
-      "title": "🎤 Rap: Nuevo Terremoto En Granada",
-      "why": "Se está disparando en búsquedas en España AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «ÚLTIMA HORA | Registrado un nuevo terremoto en Granada con epicentro en Maracena este 11 de octubre». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «ÚLTIMA HORA | Registrado un nuevo terremoto en Granada con epicentro en Maracena este 11 de octubre» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Nuevo Terremoto En Granada.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
-      "source": {
-        "name": "El Pespunte",
-        "url": "https://www.elpespunte.es/articulo/curiosidades/ultima-hora-registrado-nuevo-terremoto-granada-epicentro-maracena-11-octubre/20261011204425156040.html"
-      }
-    },
-    {
-      "id": "ES-pov-6",
+      "id": "ES-pov-5",
       "country": "ES",
       "type": "pov",
-      "topic": "Ulldecona",
-      "context": "Un hombre muere al caer del tejado de una nave industrial de Ulldecona, en Tarragona",
+      "topic": "Cristobal Colon",
+      "context": "Trump lanza una web para homenajear a Cristóbal Colón, «el héroe americano original»",
       "traffic": "200+",
-      "title": "🕊️ Homenaje: Ulldecona",
-      "why": "Tema muy sensible que está estallando en España (200+ búsquedas y subiendo). Lo que ha pasado: «Un hombre muere al caer del tejado de una nave industrial de Ulldecona, en Tarragona». Aquí el humor NO funciona y puede quemarte: tira de homenaje o de un POV emotivo y respetuoso. La gente comparte lo que emociona, no solo lo que hace gracia.",
-      "script": "🕊️ TONO: respeto total. Nada de chistes.\n🎬 GANCHO (0-3s): a cámara, serio — «Tenemos que hablar de Ulldecona.»\n💬 DESARROLLO: qué ha pasado y por qué importaba a la gente. Una anécdota o recuerdo.\n🤍 REMATE: mensaje bonito o reflexión. Texto en pantalla: «DEP».\n📌 CTA: «Déjale un mensaje en comentarios».",
-      "source": {
-        "name": "Telecinco",
-        "url": "https://www.telecinco.es/noticias/sucesos/20261012/hombre-tejado-industrial-ulldecona-tarragona_18_020411924.html"
-      }
-    },
-    {
-      "id": "ES-rap-7",
-      "country": "ES",
-      "type": "rap",
-      "topic": "Omar Sy",
-      "context": "Omar Sy dans la tourmente après le vrai casse du Louvre",
-      "traffic": "200+",
-      "title": "🎤 Rap: Omar Sy",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Omar Sy dans la tourmente après le vrai casse du Louvre». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Omar Sy dans la tourmente après le vrai casse du Louvre» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Omar Sy.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
-      "source": {
-        "name": "Ohmymag",
-        "url": "https://www.ohmymag.com/people/actu-people/art185082-omar-sy-dans-la-tourmente-apres-le-vrai-casse-du-louvre.html"
-      }
-    },
-    {
-      "id": "ES-humor-8",
-      "country": "ES",
-      "type": "humor",
-      "topic": "Amancio Ortega",
-      "context": "Amancio Ortega, 90 años, y su filosofía de vida: «Cuando estás en paz contigo mismo, llegas a tu casa y a la oficina con alegría, transmitiendo tu optimismo»",
-      "traffic": "200+",
-      "title": "😂 Humor: Amancio Ortega",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Amancio Ortega, 90 años, y su filosofía de vida: «Cuando estás en paz contigo mismo, llegas a tu casa y a la oficina con alegría, transmitiendo tu optimismo»». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Amancio Ortega, 90 años, y su filosofía de vida: «Cuando estás en paz contigo mismo, llegas a tu casa y a la oficina con alegría, transmitiendo tu optimismo»». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Amancio Ortega… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "title": "🎭 POV: Cristobal Colon",
+      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Trump lanza una web para homenajear a Cristóbal Colón, «el héroe americano original»». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Trump lanza una web para homenajear a Cristóbal Colón, «el héroe americano original»».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Cristobal Colon…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
         "name": "ABC",
-        "url": "https://www.abc.es/gente/amancio-ortega-anos-filosofia-vida-paz-contigo-20261012162133-nt.html"
+        "url": "https://www.abc.es/internacional/trump-lanza-web-homenajear-cristobal-colon-heroe-20261013093845-nt.html"
+      }
+    },
+    {
+      "id": "ES-rap-6",
+      "country": "ES",
+      "type": "rap",
+      "topic": "Davidovich",
+      "context": "Davidovich embraces madness and confines Tiafoe in his insane asylum in one of the matches of the year",
+      "traffic": "200+",
+      "title": "🎤 Rap: Davidovich",
+      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Davidovich embraces madness and confines Tiafoe in his insane asylum in one of the matches of the year». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Davidovich embraces madness and confines Tiafoe in his insane asylum in one of the matches of the year» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Davidovich.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "source": {
+        "name": "Puntodebreak",
+        "url": "https://www.puntodebreak.com/en/2026/10/11/davidovich-embraces-madness-and-confines-tiafoe-in-his-insane-asylum-in-one-of-the"
+      }
+    },
+    {
+      "id": "ES-humor-7",
+      "country": "ES",
+      "type": "humor",
+      "topic": "Frenkie De Jong",
+      "context": "Pau Cubarsí gives his verdict on Frenkie de Jong playing at center-back for Barcelona",
+      "traffic": "200+",
+      "title": "😂 Humor: Frenkie De Jong",
+      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Pau Cubarsí gives his verdict on Frenkie de Jong playing at center-back for Barcelona». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Pau Cubarsí gives his verdict on Frenkie de Jong playing at center-back for Barcelona». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Frenkie De Jong… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "source": {
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/pau-cubars-gives-verdict-frenkie-190000220.html"
+      }
+    },
+    {
+      "id": "ES-rap-8",
+      "country": "ES",
+      "type": "rap",
+      "topic": "Bulgaria",
+      "context": "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "traffic": "200+",
+      "title": "🎤 Rap: Bulgaria",
+      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Bulgaria.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "source": {
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/cmn06w5x9g25o"
       }
     },
     {
       "id": "ES-humor-9",
       "country": "ES",
       "type": "humor",
-      "topic": "Thibaut Courtois",
-      "context": "Courtois, cerca de renovar hasta 2028",
+      "topic": "Bangladesh Vs Afghanistan",
+      "context": "BAN vs AFG live score, AFG vs BAN 2026/27: AFG 288/7 (120.3 ov, Yamin Ahmadzai 5*, Qais Ahmad 7*, Taijul Islam 1/77, Only Test, day 4, Zayed Cricket Stadium, Abu Dhabi, October 09 - 13, 2026",
       "traffic": "200+",
-      "title": "😂 Humor: Thibaut Courtois",
-      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Courtois, cerca de renovar hasta 2028». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Courtois, cerca de renovar hasta 2028». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Thibaut Courtois… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "title": "😂 Humor: Bangladesh Vs Afghanistan",
+      "why": "Se está disparando en búsquedas en España AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «BAN vs AFG live score, AFG vs BAN 2026/27: AFG 288/7 (120.3 ov, Yamin Ahmadzai 5*, Qais Ahmad 7*, Taijul Islam 1/77, Only Test, day 4, Zayed Cricket Stadium, Abu Dhabi, October 09 - 13, 2026». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «BAN vs AFG live score, AFG vs BAN 2026/27: AFG 288/7 (120.3 ov, Yamin Ahmadzai 5*, Qais Ahmad 7*, Taijul Islam 1/77, Only Test, day 4, Zayed Cricket Stadium, Abu Dhabi, October 09 - 13, 2026». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Bangladesh Vs Afghanistan… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "MARCA",
-        "url": "https://www.marca.com/futbol/real-madrid/2026/10/12/courtois-cerca-renovar-2028.html"
+        "name": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/afghanistan-v-bangladesh-2026-27-1555106/afghanistan-vs-bangladesh-only-test-1555116/live-cricket-score"
       }
     },
     {
       "id": "US-humor-10",
       "country": "US",
       "type": "humor",
-      "topic": "Bubba Wallace",
-      "context": "Bubba Wallace involved in violent wreck, closest NASCAR finish in 20 years & Hooters makes a disgusting call",
+      "topic": "Rufus Sewell",
+      "context": "Video Keri Russell, Rufus Sewell talk ‘The Diplomat’",
       "traffic": "2000+",
-      "title": "😂 Humor: Bubba Wallace",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «Bubba Wallace involved in violent wreck, closest NASCAR finish in 20 years & Hooters makes a disgusting call». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Bubba Wallace involved in violent wreck, closest NASCAR finish in 20 years & Hooters makes a disgusting call». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Bubba Wallace… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "title": "😂 Humor: Rufus Sewell",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «Video Keri Russell, Rufus Sewell talk ‘The Diplomat’». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Video Keri Russell, Rufus Sewell talk ‘The Diplomat’». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Rufus Sewell… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Fox News",
-        "url": "https://www.foxnews.com/outkick-sports/bubba-wallace-involved-violent-wreck-closest-nascar-finish-20-years-hooters-makes-disgusting-call"
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://abcnews.com/video/137190268/"
       }
     },
     {
       "id": "US-pov-11",
       "country": "US",
       "type": "pov",
-      "topic": "American Conference",
-      "context": "James Madison University is Accepted for Membership to the American Conference",
+      "topic": "Prince",
+      "context": "Meghan Markle and Prince Harry Are Ready to Step Out Together Again After U.K. Move: ‘They’re Both Excited’ (Exclusive)",
       "traffic": "2000+",
-      "title": "🎭 POV: American Conference",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «James Madison University is Accepted for Membership to the American Conference». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «James Madison University is Accepted for Membership to the American Conference».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que American Conference…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "title": "🎭 POV: Prince",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «Meghan Markle and Prince Harry Are Ready to Step Out Together Again After U.K. Move: ‘They’re Both Excited’ (Exclusive)». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Meghan Markle and Prince Harry Are Ready to Step Out Together Again After U.K. Move: ‘They’re Both Excited’ (Exclusive)».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Prince…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "James Madison University Athletics",
-        "url": "https://jmusports.com/news/2026/10/12/administration-james-madison-university-accepts-membership-invitation-to-the-american-conference"
+        "name": "People.com",
+        "url": "https://people.com/meghan-markle-prince-harry-excited-focus-work-prepare-first-joint-outing-exclusive-12170640"
       }
     },
     {
       "id": "US-rap-12",
       "country": "US",
       "type": "rap",
-      "topic": "Kate Middleton London Tube Ride",
-      "context": "Kate Middleton and Princess Charlotte Spotted Riding London’s Tube During Rare Day Out",
-      "traffic": "1000+",
-      "title": "🎤 Rap: Kate Middleton London Tube Ride",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «Kate Middleton and Princess Charlotte Spotted Riding London’s Tube During Rare Day Out». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Kate Middleton and Princess Charlotte Spotted Riding London’s Tube During Rare Day Out» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Kate Middleton London Tube Ride.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "topic": "William Chapman",
+      "context": "William Chapman identified as man killed in tiger attack",
+      "traffic": "2000+",
+      "title": "🎤 Rap: William Chapman",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (2000+ búsquedas y subiendo). Lo que ha pasado: «William Chapman identified as man killed in tiger attack». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «William Chapman identified as man killed in tiger attack» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre William Chapman.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "People.com",
-        "url": "https://people.com/kate-middleton-princess-charlotte-ride-london-tube-during-rare-public-outing-12170160"
+        "name": "BBC",
+        "url": "https://www.bbc.com/news/articles/c3ewegny45jvo"
       }
     },
     {
       "id": "US-humor-13",
       "country": "US",
       "type": "humor",
-      "topic": "Sp 500",
-      "context": "S&P 500 is little changed to start the week; Micron leads tech lower: Live updates",
-      "traffic": "1000+",
-      "title": "😂 Humor: Sp 500",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (1000+ búsquedas y subiendo). Lo que ha pasado: «S&P 500 is little changed to start the week; Micron leads tech lower: Live updates». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «S&P 500 is little changed to start the week; Micron leads tech lower: Live updates». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Sp 500… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "topic": "Aapl",
+      "context": "ServiceNow (NOW): 3 Reasons We Love This Stock",
+      "traffic": "500+",
+      "title": "😂 Humor: Aapl",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «ServiceNow (NOW): 3 Reasons We Love This Stock». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «ServiceNow (NOW): 3 Reasons We Love This Stock». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Aapl… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-3-reasons-love-175903627.html"
       }
     },
     {
       "id": "US-pov-14",
       "country": "US",
       "type": "pov",
-      "topic": "Warren Buffett Index Fund Advice",
-      "context": "Warren Buffett Told His Wife’s Trustee to Buy 1 Vanguard Fund. Here’s What $300 a Month in It Becomes",
+      "topic": "Hubert Hurkacz",
+      "context": "Hubert Hurkacz - Alejandro Davidovich Fokina [RELACJA NA ŻYWO]",
       "traffic": "500+",
-      "title": "🎭 POV: Warren Buffett Index Fund Advice",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Warren Buffett Told His Wife’s Trustee to Buy 1 Vanguard Fund. Here’s What $300 a Month in It Becomes». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Warren Buffett Told His Wife’s Trustee to Buy 1 Vanguard Fund. Here’s What $300 a Month in It Becomes».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Warren Buffett Index Fund Advice…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "title": "🎭 POV: Hubert Hurkacz",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Hubert Hurkacz - Alejandro Davidovich Fokina [RELACJA NA ŻYWO]». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Hubert Hurkacz - Alejandro Davidovich Fokina [RELACJA NA ŻYWO]».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Hubert Hurkacz…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
       "source": {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-told-wife-trustee-120005780.html"
+        "name": "Przegląd Sportowy",
+        "url": "https://przegladsportowy.onet.pl/tenis/hubert-hurkacz-alejandro-davidovich-fokina-relacja-na-zywo/cnpv3bg"
       }
     },
     {
-      "id": "US-rap-15",
-      "country": "US",
-      "type": "rap",
-      "topic": "Oracle Stock",
-      "context": "Oracle and these 6 stocks are newest addition to Mizuho Top Picks list",
-      "traffic": "500+",
-      "title": "🎤 Rap: Oracle Stock",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (500+ búsquedas y subiendo). Lo que ha pasado: «Oracle and these 6 stocks are newest addition to Mizuho Top Picks list». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «Oracle and these 6 stocks are newest addition to Mizuho Top Picks list» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Oracle Stock.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
-      "source": {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-6-stocks-newest-addition-110200344.html"
-      }
-    },
-    {
-      "id": "US-humor-16",
-      "country": "US",
-      "type": "humor",
-      "topic": "Vz Stock",
-      "context": "Verizon (VZ) Stock Could Be Undervalued On Satellite Competition News",
-      "traffic": "200+",
-      "title": "😂 Humor: Vz Stock",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Verizon (VZ) Stock Could Be Undervalued On Satellite Competition News». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «Verizon (VZ) Stock Could Be Undervalued On Satellite Competition News». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Vz Stock… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
-      "source": {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/verizon-vz-stock-could-undervalued-171020930.html"
-      }
-    },
-    {
-      "id": "US-pov-17",
+      "id": "US-pov-15",
       "country": "US",
       "type": "pov",
-      "topic": "Cbrs Stock",
-      "context": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret.",
-      "traffic": "200+",
-      "title": "🎭 POV: Cbrs Stock",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret.». La gente ya lo está comentando, así que un vídeo de POV se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: ponte EN la situación de «Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret.».\n🎬 TEXTO EN PANTALLA: «POV: te enteras de que Cbrs Stock…»\n🎭 ACTUACIÓN (0-10s): solo gestos y reacción, música in crescendo.\n🔄 GIRO (10-18s): cambia el punto de vista — resulta que tú eras parte de la historia.\n🔥 REMATE: frase final a cámara. Texto: «y así fue como…».",
+      "topic": "Jon Cryer",
+      "context": "'Two and a Half Men' creator says network feared Jon Cryer would be 'death of comedy'",
+      "traffic": "500+",
+      "title": "🕊️ Homenaje: Jon Cryer",
+      "why": "Tema muy sensible que está estallando en Estados Unidos (500+ búsquedas y subiendo). Lo que ha pasado: «'Two and a Half Men' creator says network feared Jon Cryer would be 'death of comedy'». Aquí el humor NO funciona y puede quemarte: tira de homenaje o de un POV emotivo y respetuoso. La gente comparte lo que emociona, no solo lo que hace gracia.",
+      "script": "🕊️ TONO: respeto total. Nada de chistes.\n🎬 GANCHO (0-3s): a cámara, serio — «Tenemos que hablar de Jon Cryer.»\n💬 DESARROLLO: qué ha pasado y por qué importaba a la gente. Una anécdota o recuerdo.\n🤍 REMATE: mensaje bonito o reflexión. Texto en pantalla: «DEP».\n📌 CTA: «Déjale un mensaje en comentarios».",
       "source": {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-broadcom-little-235000098.html"
+        "name": "USA Today",
+        "url": "https://www.usatoday.com/story/entertainment/books/2026/10/13/two-and-a-half-men-chuck-lorre-memoir/92221653007/"
+      }
+    },
+    {
+      "id": "US-rap-16",
+      "country": "US",
+      "type": "rap",
+      "topic": "Detective",
+      "context": "Ex-Chicago detective identified as killing child in 65-year cold case",
+      "traffic": "200+",
+      "title": "🎤 Rap: Detective",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Ex-Chicago detective identified as killing child in 65-year cold case». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Ex-Chicago detective identified as killing child in 65-year cold case» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Detective.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/oct/13/chicago-police-detective-child-killer-cold-case"
+      }
+    },
+    {
+      "id": "US-humor-17",
+      "country": "US",
+      "type": "humor",
+      "topic": "Martin Shkreli",
+      "context": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
+      "traffic": "200+",
+      "title": "😂 Humor: Martin Shkreli",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Martin Shkreli… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "source": {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html"
       }
     },
     {
       "id": "US-rap-18",
       "country": "US",
       "type": "rap",
-      "topic": "Ibm Stock",
-      "context": "International Business Machines Corporation (IBM) Is a Trending Stock: Facts to Know Before Betting on It",
+      "topic": "Alejandro Davidovich Fokina",
+      "context": "Pro tennis star served up courtside cake and gay Twitter was watching",
       "traffic": "200+",
-      "title": "🎤 Rap: Ibm Stock",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «International Business Machines Corporation (IBM) Is a Trending Stock: Facts to Know Before Betting on It». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: convierte «International Business Machines Corporation (IBM) Is a Trending Stock: Facts to Know Before Betting on It» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Ibm Stock.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
+      "title": "🎤 Rap: Alejandro Davidovich Fokina",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Pro tennis star served up courtside cake and gay Twitter was watching». La gente ya lo está comentando, así que un vídeo de rap se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: convierte «Pro tennis star served up courtside cake and gay Twitter was watching» en barras con punchlines.\n🎤 ESTRIBILLO (2 líneas pegadizas) sobre Alejandro Davidovich Fokina.\n🎶 ESTROFA (6-8 barras): cuenta la movida con rimas internas y nombres propios.\n🔥 PUNCHLINE final: el remate más fuerte en el último segundo (que haga loop).\n🎚️ BEAT: tempo medio-alto, deja huecos para los gestos.",
       "source": {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-corporation-ibm-120006514.html"
+        "name": "OutSports",
+        "url": "https://www.outsports.com/2026/10/12/24145052/alejandro-davidovich-fokina-shanghai-masters-tennis-physio-exposed-bum/"
       }
     },
     {
       "id": "US-humor-19",
       "country": "US",
       "type": "humor",
-      "topic": "Unh Stock",
-      "context": "How UnitedHealth’s 2027 Medicare Advantage Overhaul Could Reshape the Investment Case for UNH",
+      "topic": "Bumble Stock",
+      "context": "Exclusive | Dating-App Company Bumble in Advanced Talks to Go Private at $1 Billion Valuation",
       "traffic": "200+",
-      "title": "😂 Humor: Unh Stock",
-      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «How UnitedHealth’s 2027 Medicare Advantage Overhaul Could Reshape the Investment Case for UNH». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
-      "script": "🎯 ÁNGULO VIRAL: «How UnitedHealth’s 2027 Medicare Advantage Overhaul Could Reshape the Investment Case for UNH». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Unh Stock… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
+      "title": "😂 Humor: Bumble Stock",
+      "why": "Se está disparando en búsquedas en Estados Unidos AHORA (200+ búsquedas y subiendo). Lo que ha pasado: «Exclusive | Dating-App Company Bumble in Advanced Talks to Go Private at $1 Billion Valuation». La gente ya lo está comentando, así que un vídeo de humor se sube a la ola justo cuando el algoritmo más empuja. Cuanta más polémica o sorpresa, más se comparte. Súbelo hoy, mañana ya estará frío.",
+      "script": "🎯 ÁNGULO VIRAL: «Exclusive | Dating-App Company Bumble in Advanced Talks to Go Private at $1 Billion Valuation». Busca aquí la incoherencia, la exageración o lo absurdo.\n🎬 GANCHO (0-3s): suelta el dato más fuerte a bocajarro — «Resulta que Bumble Stock… y aún no me lo creo.»\n😂 DESARROLLO (3-12s): tu reacción exagerada + imita a los típicos comentarios de redes sobre esto.\n🔥 REMATE (último seg): punchline o giro que invite a discutir (la polémica = más alcance).\n📌 CTA: pregunta que obligue a comentar — «¿Estoy yo solo o…?»",
       "source": {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-2027-medicare-advantage-overhaul-111237401.html"
+        "name": "WSJ",
+        "url": "https://www.wsj.com/business/deals/dating-app-bumble-in-advanced-talks-to-go-private-at-1-billion-valuation-fcc8c6ef"
       }
     }
   ]
